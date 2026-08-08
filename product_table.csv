@@ -1,0 +1,44 @@
+product_id,product_name,brand,category,selling_price,cost,stock_quantity,average_rating
+PROD_0001,"Apple iPhone 15 Pro Max",Apple,Smartphones,1199,845.54,260,4.2
+PROD_0002,"Apple iPhone 14",Apple,Smartphones,799,480.9,45,4.9
+PROD_0003,"Samsung Galaxy S24 Ultra",Samsung,Smartphones,1299.99,997.19,102,5
+PROD_0004,"Samsung Galaxy Z Fold 5",Samsung,Smartphones,1799.99,1268,172,4.7
+PROD_0005,"Google Pixel 8 Pro",Google,Smartphones,999,536.08,31,4.7
+PROD_0006,"OnePlus 12",OnePlus,Smartphones,799.99,493.57,21,4.7
+PROD_0007,"Sony Xperia 1 V",Sony,Smartphones,2498,1268.04,50,4.3
+PROD_0008,"Motorola Edge 40",Motorola,Smartphones,699,405.02,159,3.8
+PROD_0009,"Apple MacBook Pro 16-inch (M3 Max)",Apple,Laptops,3499,1832.22,14,3.7
+PROD_0010,"Apple MacBook Air 15-inch (M2)",Apple,Laptops,1299,705.5,152,3.7
+PROD_0011,"Dell XPS 15",Dell,Laptops,1499,832.61,43,3.8
+PROD_0012,"Lenovo ThinkPad X1 Carbon Gen 11",Lenovo,Laptops,1399.5,888.75,75,4.7
+PROD_0013,"ASUS ROG Zephyrus G14",ASUS,Laptops,1599.99,1250.77,208,5
+PROD_0014,"HP Spectre x360",HP,Laptops,1249,883.74,271,4.4
+PROD_0015,"Razer Blade 16",Razer,Laptops,2699.99,1390.87,196,4.3
+PROD_0016,"Acer ZenBook Pro",Acer,Laptops,1450,796.88,27,4.9
+PROD_0017,"Sony WH-1000XM5",Sony,Audio,398,227.15,3,3.9
+PROD_0018,"Bose QuietComfort Ultra",Bose,Audio,429,317,152,3.7
+PROD_0019,"Apple AirPods Pro (2nd Gen)",Apple,Audio,249,171.18,97,4.6
+PROD_0020,"Sennheiser Momentum 4",Sennheiser,Audio,349.95,206.58,187,4.8
+PROD_0021,"Jabra Elite 85t",Jabra,Audio,229.99,122.9,139,4.2
+PROD_0022,"Beats Studio Pro",Beats,Audio,349.99,209.68,131,4.9
+PROD_0023,"LG C3 65-inch OLED",LG,Televisions,1699.99,1355.08,126,4.8
+PROD_0024,"Samsung S90C 77-inch OLED",Samsung,Televisions,2499.99,1953.53,52,4.8
+PROD_0025,"Sony Bravia XR A95L 65-inch",Sony,Televisions,3299,2608.26,17,3.5
+PROD_0026,"TCL 55-inch 6-Series",TCL,Televisions,599,466.86,227,4.7
+PROD_0027,"Sony Alpha a7 IV",Sony,Cameras,2498,1750.62,109,3.6
+PROD_0028,"Canon EOS R6 Mark II",Canon,Cameras,2499,1721.28,142,3.7
+PROD_0029,"Nikon Z8",Nikon,Cameras,3996.95,3026.47,159,4.3
+PROD_0030,"DJI Mini 4 Pro",DJI,Drones,759,447.85,166,3.8
+PROD_0031,"GoPro HERO12 Black",GoPro,Cameras,399.99,286.9,89,4.5
+PROD_0032,"Apple Magic Trackpad",Apple,Accessories,129,86.74,138,4.1
+PROD_0033,"Apple Watch Ultra 2",Apple,Wearables,799,432.55,102,3.8
+PROD_0034,"Garmin Epix Pro (Gen 2)",Garmin,Wearables,899.99,630.08,44,3.9
+PROD_0035,"Samsung Galaxy Watch 6 Classic",Samsung,Wearables,399.99,286.06,197,3.6
+PROD_0036,"Amazon Echo Studio",Amazon,"Smart Home",199.99,101.42,121,4.6
+PROD_0037,"Sony PlayStation 5 Disc Edition",Sony,Gaming,499.99,291.68,154,3.8
+PROD_0038,"Microsoft Xbox Series X",Microsoft,Gaming,499.99,271.86,183,4.7
+PROD_0039,"Google Nest Hub Max",Google,"Smart Home",229,126.96,160,4.9
+PROD_0040,"Philips Hue Color Starter Kit",Philips,"Smart Home",199.99,146.99,178,4
+PROD_0041,"iRobot Roomba Combo j7+",iRobot,"Smart Home",799,540.35,160,3.9
+PROD_0042,"Dyson V15 Detect Absolute",Dyson,Appliances,749.99,579.58,5,4.3
+PROD_0043,"LG InstaView Refrigerator",LG,Appliances,2199,1575.48,52,4.6

@@ -1,0 +1,1051 @@
+customer_id,first_name,last_name,email,country,signup_date
+CUST_00657,olivia,Davis,olivia_davis656@example.com,Canada,2023-10-21
+CUST_00832,James,Davis,james_davis831@example.com,Germany,2022-04-03
+CUST_00190,Isabella,Smith,isabella_smith189@example.com,Japan,2022-10-26
+CUST_00983,Sophia,Rodriguez,sophia_rodriguez982@example.com,"United State",2022-11-30
+CUST_00253,olivia,Brown,olivia_brown252@example.com,Canada,2023-04-22
+CUST_00390,Mia,garcia,mia_garcia389@example.com,Germany,2022-07-18
+CUST_00091,Mia,Jones,mia_jones90@example.com,France,2023-04-10
+CUST_00940,Noah,Brown,noah_brown939@example.com,France,2023-04-24
+CUST_00457,William,garcia,william_garcia456@example.com,Germany,2023-04-11
+CUST_00410,Isabella,williams,,Germany,2023-07-15
+CUST_00322,Ava,Johnson,ava_johnson321@example.com,NULL,2022-08-08
+CUST_00997,William,Smith,william_smith996@example.com,NULL,2023-05-27
+CUST_00886,Liam,Martinez,liam_martinez885@example.com,Canada,2022-02-11
+CUST_00902,Noah,Martinez,noah_martinez901@example.com,Australia,2022-04-28
+CUST_00101,Liam,williams,liam_williams100@example.com,Canada,2023-01-10
+CUST_00937,Emma,Smith,emma_smith936@example.com,Australia,2023-01-02
+CUST_00679,Benjamin,Davis,,NULL,2022-01-05
+CUST_00724,William,garcia,william_garcia723@example.com,Australia,2023-03-31
+CUST_00913,Mia,williams,mia_williams912@example.com,Japan,2023-02-07
+CUST_00121,Benjamin,Smith,benjamin_smith120@example.com,NULL,2022-02-07
+CUST_00737,William,Jones,william_jones736@example.com,Canada,2023-08-17
+CUST_00129,Mia,garcia,,"United State",2022-06-13
+CUST_00941,William,Martinez,william_martinez940@example.com,NULL,2022-06-16
+CUST_00325,Benjamin,Jones,benjamin_jones324@example.com,Canada,2022-08-12
+CUST_00238,Noah,Davis,noah_davis237@example.com,France,2023-06-25
+CUST_00248,James,Davis,,Germany,2022-06-11
+CUST_00838,oliver,Johnson,,Japan,2022-07-03
+CUST_00568,Sophia,Smith,sophia_smith567@example.com,France,2022-07-14
+CUST_00279,Sophia,garcia,sophia_garcia278@example.com,NULL,2023-08-30
+CUST_00384,Sophia,Smith,,NULL,2022-02-27
+CUST_00030,Liam,Brown,liam_brown29@example.com,"United State",2022-11-14
+CUST_00578,Noah,Brown,noah_brown577@example.com,Canada,2023-09-08
+CUST_00048,Sophia,williams,sophia_williams47@example.com,Germany,2022-06-19
+CUST_00110,Benjamin,Smith,benjamin_smith109@example.com,Australia,2023-11-10
+CUST_00265,William,williams,william_williams264@example.com,Canada,2022-02-20
+CUST_00351,Liam,Johnson,liam_johnson350@example.com,NULL,2022-07-26
+CUST_00282,Liam,Smith,liam_smith281@example.com,Australia,2022-12-06
+CUST_00358,William,williams,william_williams357@example.com,Australia,2023-01-30
+CUST_00955,oliver,Miller,oliver_miller954@example.com,NULL,2022-08-13
+CUST_00754,Sophia,Jones,sophia_jones753@example.com,"United State",2023-05-03
+CUST_00052,olivia,Jones,olivia_jones51@example.com,Canada,2022-04-16
+CUST_00404,olivia,Jones,olivia_jones403@example.com,UK,2023-02-22
+CUST_00071,William,Johnson,william_johnson70@example.com,NULL,2023-03-13
+CUST_00246,Isabella,Rodriguez,isabella_rodriguez245@example.com,NULL,2022-10-03
+CUST_00428,oliver,williams,oliver_williams427@example.com,Germany,2022-03-21
+CUST_00547,Mia,Rodriguez,mia_rodriguez546example.com,NULL,2022-07-25
+CUST_00240,James,Johnson,james_johnson239example.com,NULL,2028-01-01
+CUST_00189,Sophia,garcia,sophia_garcia188@example.com,Germany,2022-07-04
+CUST_00213,oliver,Davis,oliver_davis212@example.com,"United State",2023-07-11
+CUST_00614,Emma,Johnson,emma_johnson613@example.com,Australia,2022-10-17
+CUST_00688,Ava,Brown,,Germany,2022-05-20
+CUST_00232,William,Jones,william_jones231@example.com,NULL,2023-11-25
+CUST_00221,olivia,Martinez,olivia_martinez220@example.com,Canada,2023-10-11
+CUST_00804,Mia,Martinez,mia_martinez803@example.com,UK,2023-01-12
+CUST_00531,Ava,garcia,ava_garcia530@example.com,NULL,2022-04-05
+CUST_00083,Liam,Johnson,liam_johnson82@example.com,Japan,2023-02-25
+CUST_00813,Liam,Rodriguez,liam_rodriguez812@example.com,UK,2022-12-29
+CUST_00138,Liam,Davis,liam_davis137example.com,Canada,2022-05-19
+CUST_00415,Mia,Brown,mia_brown414@example.com,UK,2023-04-07
+CUST_00468,James,williams,james_williams467@example.com,NULL,2023-08-14
+CUST_00747,olivia,Jones,olivia_jones746@example.com,NULL,2023-09-20
+CUST_00628,William,Miller,william_miller627@example.com,France,2022-01-12
+CUST_00771,Mia,Jones,mia_jones770@example.com,"United State",2022-04-28
+CUST_00300,Emma,Brown,emma_brown299@example.com,"United State",2022-04-29
+CUST_00964,Emma,Davis,emma_davis963@example.com,NULL,2022-08-22
+CUST_00444,Emma,Smith,emma_smith443@example.com,"United State",2022-07-30
+CUST_00481,Mia,garcia,mia_garcia480@example.com,Canada,2022-03-15
+CUST_00459,Liam,Rodriguez,liam_rodriguez458@example.com,Germany,2023-03-30
+CUST_00472,oliver,garcia,oliver_garcia471@example.com,UK,2023-01-17
+CUST_00167,Noah,Brown,noah_brown166@example.com,Canada,2023-02-11
+CUST_00817,Liam,garcia,liam_garcia816example.com,NULL,2022-10-15
+CUST_00057,olivia,Davis,,NULL,2022-08-09
+CUST_00417,olivia,Smith,olivia_smith416@example.com,Japan,2023-03-23
+CUST_00043,Mia,Miller,mia_miller42@example.com,"United State",2023-01-21
+CUST_00681,James,Brown,james_brown680@example.com,NULL,2023-05-01
+CUST_00642,olivia,Jones,olivia_jones641@example.com,NULL,2022-02-03
+CUST_00333,Isabella,williams,isabella_williams332@example.com,Japan,2023-07-27
+CUST_00883,Sophia,Jones,sophia_jones882@example.com,Australia,2023-05-17
+CUST_00672,oliver,Martinez,oliver_martinez671@example.com,Canada,2023-11-26
+CUST_00753,James,Johnson,james_johnson752@example.com,Japan,2023-03-31
+CUST_00370,oliver,Jones,oliver_jones369@example.com,France,2022-12-16
+CUST_00255,Benjamin,Martinez,benjamin_martinez254@example.com,Australia,2022-07-20
+CUST_00515,Benjamin,Johnson,benjamin_johnson514@example.com,Canada,2023-12-01
+CUST_00067,Isabella,Miller,isabella_miller66@example.com,NULL,2023-10-25
+CUST_00010,Isabella,Jones,isabella_jones9@example.com,"United State",2022-04-28
+CUST_00829,Sophia,Jones,sophia_jones828@example.com,Canada,2022-08-02
+CUST_00534,William,garcia,william_garcia533@example.com,"United State",2022-08-21
+CUST_00679,Benjamin,Davis,,NULL,2022-01-05
+CUST_00553,Isabella,Jones,isabella_jones552@example.com,Canada,2022-01-31
+CUST_00948,Noah,Jones,noah_jones947@example.com,Canada,2023-06-24
+CUST_00036,William,Rodriguez,william_rodriguez35@example.com,"United State",2022-10-21
+CUST_00437,olivia,Martinez,olivia_martinez436@example.com,Japan,2023-04-10
+CUST_00541,oliver,Johnson,oliver_johnson540@example.com,Canada,2022-11-25
+CUST_00434,Emma,Martinez,emma_martinez433@example.com,NULL,2023-02-20
+CUST_00065,Mia,Davis,mia_davis64@example.com,NULL,2022-03-06
+CUST_00510,William,Davis,,Canada,2022-05-18
+CUST_00655,Benjamin,garcia,benjamin_garcia654@example.com,NULL,2023-01-27
+CUST_00139,Benjamin,Miller,benjamin_miller138@example.com,Australia,2023-01-22
+CUST_00028,oliver,Miller,oliver_miller27@example.com,Canada,2028-01-01
+CUST_00540,Isabella,Martinez,isabella_martinez539@example.com,UK,2023-03-17
+CUST_00355,Ava,Jones,,NULL,2022-10-25
+CUST_00070,Isabella,Jones,isabella_jones69@example.com,"United State",2022-07-04
+CUST_00382,olivia,williams,olivia_williams381@example.com,Canada,2022-12-27
+CUST_00197,Mia,Martinez,mia_martinez196@example.com,"United State",2022-10-30
+CUST_00480,Benjamin,Davis,benjamin_davis479@example.com,NULL,2022-05-29
+CUST_00212,Noah,Jones,noah_jones211example.com,UK,2022-06-22
+CUST_00760,Liam,Johnson,liam_johnson759@example.com,France,2022-01-31
+CUST_00896,Isabella,williams,isabella_williams895@example.com,UK,2023-08-17
+CUST_00647,William,Rodriguez,,Australia,2023-03-19
+CUST_00375,Noah,garcia,noah_garcia374@example.com,France,2023-08-26
+CUST_00704,Sophia,Jones,sophia_jones703@example.com,Australia,2023-06-24
+CUST_00454,Isabella,Rodriguez,isabella_rodriguez453@example.com,NULL,2022-09-02
+CUST_00658,James,Jones,,Germany,2028-01-01
+CUST_00819,William,Davis,william_davis818@example.com,France,2023-03-27
+CUST_00652,Emma,Martinez,emma_martinez651@example.com,Germany,2022-05-03
+CUST_00781,Benjamin,Davis,benjamin_davis780@example.com,Germany,2023-03-21
+CUST_00837,Isabella,Miller,isabella_miller836@example.com,Japan,2022-09-17
+CUST_00556,Ava,Martinez,ava_martinez555@example.com,UK,2023-08-18
+CUST_00900,Sophia,williams,sophia_williams899@example.com,NULL,2022-03-01
+CUST_00184,Ava,Miller,ava_miller183@example.com,Canada,2022-09-10
+CUST_00582,Benjamin,Martinez,benjamin_martinez581@example.com,Australia,2023-01-04
+CUST_00112,Benjamin,Jones,benjamin_jones111@example.com,UK,2022-11-02
+CUST_00445,William,Miller,william_miller444@example.com,France,2022-09-25
+CUST_00758,Sophia,Davis,sophia_davis757@example.com,Germany,2023-10-22
+CUST_00060,oliver,Brown,oliver_brown59@example.com,"United State",2022-09-04
+CUST_00572,Benjamin,Brown,,Canada,2022-06-17
+CUST_00583,Liam,Jones,liam_jones582@example.com,"United State",2023-07-18
+CUST_00914,Mia,Johnson,mia_johnson913@example.com,France,2022-05-07
+CUST_00315,James,Johnson,james_johnson314@example.com,NULL,2023-03-30
+CUST_00430,Emma,Rodriguez,emma_rodriguez429@example.com,UK,2023-10-21
+CUST_00810,Noah,Miller,noah_miller809@example.com,"United State",2022-09-26
+CUST_00211,Sophia,Davis,sophia_davis210@example.com,Australia,2028-01-01
+CUST_00577,Ava,Smith,ava_smith576@example.com,Australia,2023-09-15
+CUST_00125,Benjamin,williams,benjamin_williams124example.com,Canada,2023-08-05
+CUST_00874,Noah,Jones,noah_jones873@example.com,Canada,2022-05-10
+CUST_00479,oliver,Rodriguez,oliver_rodriguez478@example.com,Canada,2023-06-07
+CUST_00263,James,garcia,james_garcia262@example.com,UK,2023-04-20
+CUST_00536,oliver,williams,oliver_williams535@example.com,NULL,2023-02-07
+CUST_00066,James,Smith,,UK,2022-11-20
+CUST_00861,James,Davis,james_davis860@example.com,"United State",2023-09-17
+CUST_00625,Emma,garcia,emma_garcia624@example.com,"United State",2023-01-03
+CUST_00307,olivia,Brown,olivia_brown306@example.com,Canada,2023-12-01
+CUST_00343,William,Jones,william_jones342@example.com,Germany,2022-03-08
+CUST_00290,William,williams,william_williams289@example.com,Japan,2022-12-10
+CUST_00638,Emma,Martinez,emma_martinez637@example.com,Germany,2023-10-07
+CUST_00126,Noah,williams,noah_williams125@example.com,Canada,2023-06-12
+CUST_00565,James,garcia,james_garcia564@example.com,Canada,2022-02-12
+CUST_00331,Emma,Martinez,emma_martinez330@example.com,UK,2022-08-16
+CUST_00795,Mia,Brown,mia_brown794@example.com,France,2023-01-07
+CUST_00688,Ava,Brown,,Germany,2022-05-20
+CUST_00686,Sophia,Brown,sophia_brown685@example.com,"United State",2022-05-29
+CUST_00094,Liam,garcia,liam_garcia93@example.com,Australia,2022-04-10
+CUST_00936,olivia,Rodriguez,olivia_rodriguez935@example.com,Japan,2022-07-10
+CUST_00509,Benjamin,Rodriguez,benjamin_rodriguez508@example.com,UK,2023-07-26
+CUST_00135,James,Johnson,james_johnson134@example.com,"United State",2023-06-10
+CUST_00551,James,Rodriguez,,UK,2022-11-09
+CUST_00742,oliver,Rodriguez,oliver_rodriguez741@example.com,Japan,2022-05-02
+CUST_00035,Mia,garcia,,Australia,2022-10-09
+CUST_00931,Benjamin,Johnson,,Australia,2023-09-18
+CUST_00775,oliver,Jones,oliver_jones774@example.com,Australia,2022-03-19
+CUST_00770,Liam,Miller,liam_miller769@example.com,Canada,2022-09-08
+CUST_00473,Sophia,Jones,sophia_jones472@example.com,Germany,2022-04-13
+CUST_00433,Emma,Brown,emma_brown432example.com,Germany,2022-05-18
+CUST_00809,James,Miller,james_miller808@example.com,Germany,2022-10-17
+CUST_00938,Isabella,williams,isabella_williams937@example.com,Canada,2022-01-09
+CUST_00234,Mia,williams,mia_williams233@example.com,Australia,2022-03-30
+CUST_00773,Benjamin,Davis,benjamin_davis772@example.com,Canada,2022-11-27
+CUST_00392,Isabella,Jones,isabella_jones391@example.com,NULL,2023-04-23
+CUST_00934,Sophia,Martinez,sophia_martinez933@example.com,France,2023-04-10
+CUST_00774,James,Johnson,james_johnson773@example.com,Australia,2023-11-15
+CUST_00474,Noah,Rodriguez,noah_rodriguez473@example.com,NULL,2022-06-03
+CUST_00732,Ava,Davis,,Japan,2023-05-08
+CUST_00368,James,Martinez,james_martinez367@example.com,Australia,2023-05-25
+CUST_00136,oliver,Smith,oliver_smith135@example.com,NULL,2023-02-10
+CUST_00173,Noah,Martinez,noah_martinez172@example.com,Canada,2022-11-03
+CUST_00100,Ava,Johnson,ava_johnson99@example.com,Australia,2023-10-01
+CUST_00879,Mia,Rodriguez,mia_rodriguez878@example.com,NULL,2023-08-10
+CUST_00563,James,Davis,james_davis562@example.com,"United State",2022-01-16
+CUST_00341,Sophia,Davis,,UK,2022-01-15
+CUST_00990,Benjamin,Smith,benjamin_smith989@example.com,France,2023-11-07
+CUST_00912,William,Smith,william_smith911@example.com,"United State",2022-01-05
+CUST_00694,Isabella,Miller,isabella_miller693@example.com,"United State",2022-09-04
+CUST_00185,James,Martinez,james_martinez184@example.com,NULL,2023-02-10
+CUST_00791,Benjamin,Brown,benjamin_brown790@example.com,"United State",2022-10-09
+CUST_00690,Mia,Martinez,mia_martinez689@example.com,Australia,2022-03-30
+CUST_00014,Isabella,Smith,isabella_smith13@example.com,Canada,2023-02-25
+CUST_00594,Isabella,garcia,isabella_garcia593@example.com,Japan,2023-06-18
+CUST_00350,Ava,Martinez,ava_martinez349@example.com,"United State",2023-09-25
+CUST_00408,Mia,Smith,mia_smith407@example.com,NULL,2023-07-13
+CUST_00486,Liam,Johnson,liam_johnson485@example.com,France,2023-02-04
+CUST_00427,Emma,garcia,emma_garcia426@example.com,France,2022-09-27
+CUST_00403,Liam,williams,liam_williams402example.com,Japan,2022-03-31
+CUST_00320,James,Rodriguez,james_rodriguez319@example.com,NULL,2023-01-17
+CUST_00958,Isabella,Martinez,isabella_martinez957@example.com,Canada,2023-05-25
+CUST_00667,Emma,Smith,emma_smith666@example.com,NULL,2022-05-02
+CUST_00102,Noah,Martinez,noah_martinez101@example.com,NULL,2022-12-08
+CUST_00400,Mia,Brown,,"United State",2023-07-05
+CUST_00544,Emma,Brown,emma_brown543@example.com,NULL,2022-04-24
+CUST_00905,olivia,Jones,olivia_jones904@example.com,France,2022-05-26
+CUST_00111,Sophia,garcia,sophia_garcia110@example.com,Australia,2022-12-29
+CUST_00220,olivia,williams,olivia_williams219@example.com,UK,2023-11-24
+CUST_00784,Ava,williams,ava_williams783@example.com,Canada,2022-06-03
+CUST_00772,Emma,Rodriguez,emma_rodriguez771@example.com,Canada,2023-03-08
+CUST_00252,Benjamin,garcia,,Canada,2023-11-21
+CUST_00651,Mia,Davis,mia_davis650@example.com,NULL,2022-01-25
+CUST_00348,Emma,Smith,emma_smith347@example.com,Canada,2022-09-16
+CUST_00294,Emma,Jones,emma_jones293example.com,NULL,2022-03-17
+CUST_00611,James,Martinez,james_martinez610@example.com,Japan,2023-04-12
+CUST_00706,Benjamin,Johnson,benjamin_johnson705@example.com,"United State",2022-07-03
+CUST_00260,Isabella,williams,isabella_williams259@example.com,Germany,2023-03-22
+CUST_00247,Liam,Smith,liam_smith246@example.com,Australia,2023-08-14
+CUST_00230,oliver,Brown,oliver_brown229@example.com,"United State",2022-05-04
+CUST_00796,Mia,Johnson,mia_johnson795@example.com,Australia,2023-02-07
+CUST_00006,William,Rodriguez,william_rodriguez5@example.com,UK,2022-02-14
+CUST_00362,James,Johnson,james_johnson361@example.com,"United State",2028-01-01
+CUST_00337,Sophia,Smith,sophia_smith336@example.com,UK,2023-08-07
+CUST_00470,Liam,Rodriguez,liam_rodriguez469@example.com,"United State",2023-01-24
+CUST_00438,Liam,Brown,liam_brown437@example.com,"United State",2023-06-01
+CUST_00495,Liam,Miller,liam_miller494@example.com,Germany,2022-10-06
+CUST_00203,James,Martinez,,UK,2022-03-06
+CUST_00522,Isabella,Johnson,isabella_johnson521@example.com,Canada,2023-06-23
+CUST_00906,olivia,Brown,olivia_brown905@example.com,Australia,2022-01-02
+CUST_00835,Ava,Davis,ava_davis834@example.com,Australia,2022-05-11
+CUST_00739,olivia,Rodriguez,olivia_rodriguez738@example.com,Australia,2023-06-23
+CUST_00904,Emma,Jones,emma_jones903@example.com,"United State",2023-07-23
+CUST_00812,William,Miller,william_miller811@example.com,Japan,2023-09-04
+CUST_00122,Sophia,Davis,sophia_davis121@example.com,NULL,2022-01-10
+CUST_00291,Ava,Brown,,NULL,2028-01-01
+CUST_00449,Benjamin,williams,benjamin_williams448@example.com,Canada,2023-09-21
+CUST_00496,Benjamin,Rodriguez,benjamin_rodriguez495@example.com,"United State",2022-10-24
+CUST_00606,oliver,Rodriguez,oliver_rodriguez605@example.com,Canada,2022-10-05
+CUST_00907,oliver,Jones,oliver_jones906@example.com,"United State",2023-05-09
+CUST_00103,Isabella,Davis,isabella_davis102@example.com,NULL,2023-09-20
+CUST_00150,Noah,Jones,noah_jones149@example.com,Australia,2023-07-30
+CUST_00946,Ava,williams,ava_williams945@example.com,NULL,2022-06-30
+CUST_00116,Benjamin,Davis,benjamin_davis115@example.com,NULL,2022-10-06
+CUST_00388,Sophia,Miller,sophia_miller387@example.com,France,2023-07-20
+CUST_00597,Sophia,williams,sophia_williams596@example.com,NULL,2022-11-19
+CUST_00570,Benjamin,Rodriguez,benjamin_rodriguez569@example.com,France,2023-05-28
+CUST_00929,William,Smith,william_smith928@example.com,UK,2023-09-07
+CUST_00369,Emma,Johnson,,NULL,2022-04-04
+CUST_00518,Emma,Martinez,emma_martinez517@example.com,Australia,2023-08-28
+CUST_00627,Sophia,Rodriguez,sophia_rodriguez626@example.com,NULL,2023-01-29
+CUST_00002,Noah,Johnson,noah_johnson1@example.com,Germany,2022-08-27
+CUST_00977,James,Jones,james_jones976@example.com,Australia,2023-02-13
+CUST_00545,James,Smith,james_smith544@example.com,UK,2023-06-20
+CUST_00520,Mia,Smith,mia_smith519@example.com,Canada,2022-03-01
+CUST_00939,Mia,williams,mia_williams938@example.com,Australia,2023-03-09
+CUST_00875,Isabella,Jones,isabella_jones874@example.com,NULL,2023-10-13
+CUST_00620,Sophia,Johnson,sophia_johnson619@example.com,Germany,2023-01-24
+CUST_00654,Benjamin,williams,benjamin_williams653@example.com,"United State",2022-10-11
+CUST_00446,Sophia,Martinez,sophia_martinez445@example.com,France,2022-07-28
+CUST_00971,Sophia,Brown,sophia_brown970@example.com,Australia,2022-11-08
+CUST_00504,olivia,Smith,olivia_smith503@example.com,"United State",2023-10-16
+CUST_00080,Mia,garcia,mia_garcia79@example.com,Australia,2022-11-04
+CUST_00207,olivia,garcia,olivia_garcia206@example.com,NULL,2022-05-25
+CUST_00738,olivia,Smith,olivia_smith737@example.com,Australia,2022-06-16
+CUST_00891,olivia,Rodriguez,olivia_rodriguez890@example.com,France,2022-11-30
+CUST_00076,William,garcia,,NULL,2023-02-12
+CUST_00697,James,williams,james_williams696@example.com,Canada,2028-01-01
+CUST_00768,oliver,Miller,oliver_miller767@example.com,NULL,2022-01-29
+CUST_00855,Mia,garcia,mia_garcia854@example.com,NULL,2022-10-17
+CUST_00276,Ava,williams,ava_williams275example.com,Germany,2022-10-15
+CUST_00942,Emma,Davis,,UK,2023-04-23
+CUST_00857,James,Jones,james_jones856@example.com,"United State",2022-09-25
+CUST_00626,Ava,Smith,ava_smith625@example.com,Canada,2023-01-27
+CUST_00820,olivia,Smith,,NULL,2023-04-24
+CUST_00277,James,Rodriguez,james_rodriguez276@example.com,UK,2022-04-13
+CUST_00943,Noah,Davis,noah_davis942@example.com,Canada,2023-01-20
+CUST_00584,James,williams,james_williams583@example.com,Canada,2023-06-22
+CUST_00719,James,garcia,james_garcia718@example.com,"United State",2023-07-19
+CUST_00205,Mia,garcia,mia_garcia204@example.com,Germany,2022-12-27
+CUST_00064,William,williams,william_williams63example.com,Australia,2023-10-21
+CUST_00298,Ava,Jones,,Germany,2023-05-18
+CUST_00930,Liam,Davis,,"United State",2023-01-22
+CUST_00214,William,Rodriguez,,Japan,2022-08-12
+CUST_00166,Emma,Rodriguez,emma_rodriguez165@example.com,NULL,2022-04-09
+CUST_00440,Liam,Johnson,liam_johnson439@example.com,Germany,2022-01-02
+CUST_00959,Sophia,Smith,sophia_smith958@example.com,France,2022-03-26
+CUST_00317,Sophia,Davis,sophia_davis316@example.com,"United State",2022-06-12
+CUST_00585,Noah,Martinez,noah_martinez584@example.com,France,2022-03-31
+CUST_00451,oliver,Miller,oliver_miller450@example.com,Canada,2022-02-08
+CUST_00676,olivia,Smith,,"United State",2022-04-02
+CUST_00717,William,williams,william_williams716example.com,Japan,2023-06-04
+CUST_00308,Mia,williams,mia_williams307@example.com,Japan,2022-03-10
+CUST_00383,oliver,Martinez,oliver_martinez382@example.com,France,2023-07-01
+CUST_00024,Mia,Martinez,mia_martinez23@example.com,"United State",2023-09-06
+CUST_00944,olivia,Smith,,"United State",2022-05-26
+CUST_00199,Isabella,Davis,,Japan,2022-11-23
+CUST_00050,Noah,Jones,noah_jones49@example.com,UK,2023-08-08
+CUST_00174,Noah,Martinez,noah_martinez173@example.com,Australia,2022-05-24
+CUST_00299,William,Smith,william_smith298@example.com,France,2023-05-07
+CUST_00423,Ava,williams,ava_williams422@example.com,Canada,2022-01-11
+CUST_00300,Emma,Brown,emma_brown299@example.com,"United State",2022-04-29
+CUST_00093,Benjamin,garcia,benjamin_garcia92@example.com,Canada,2023-01-15
+CUST_00488,William,garcia,william_garcia487@example.com,Australia,2023-07-16
+CUST_00992,William,Brown,,"United State",2022-12-12
+CUST_00072,James,garcia,james_garcia71@example.com,Canada,2023-03-22
+CUST_00367,Ava,Smith,ava_smith366@example.com,Canada,2022-08-29
+CUST_00208,Sophia,Martinez,sophia_martinez207@example.com,NULL,2023-07-05
+CUST_00453,James,Smith,james_smith452@example.com,Australia,2022-02-04
+CUST_00557,Noah,williams,noah_williams556@example.com,Australia,2023-03-17
+CUST_00508,oliver,garcia,oliver_garcia507@example.com,France,2022-12-31
+CUST_00728,Isabella,Davis,isabella_davis727@example.com,NULL,2023-01-26
+CUST_00895,Emma,Martinez,emma_martinez894@example.com,Australia,2022-05-04
+CUST_00589,Liam,Brown,liam_brown588@example.com,NULL,2022-12-25
+CUST_00793,James,Brown,james_brown792@example.com,NULL,2023-01-12
+CUST_00954,James,williams,james_williams953@example.com,Japan,2023-05-22
+CUST_00373,Ava,Rodriguez,ava_rodriguez372@example.com,"United State",2023-05-20
+CUST_00257,Benjamin,Smith,,France,2022-11-11
+CUST_00812,William,Miller,william_miller811@example.com,Japan,2023-09-04
+CUST_00566,Sophia,garcia,sophia_garcia565@example.com,Germany,2023-06-22
+CUST_00925,Noah,Smith,noah_smith924@example.com,Australia,2023-02-06
+CUST_00303,oliver,Smith,oliver_smith302@example.com,"United State",2022-12-19
+CUST_00021,James,garcia,james_garcia20@example.com,Canada,2023-08-05
+CUST_00421,Mia,Smith,mia_smith420@example.com,Germany,2022-02-07
+CUST_00329,olivia,Rodriguez,olivia_rodriguez328@example.com,Germany,2022-11-24
+CUST_00653,oliver,williams,oliver_williams652@example.com,France,2022-07-09
+CUST_00687,oliver,Davis,oliver_davis686@example.com,Australia,2023-10-10
+CUST_00573,Liam,Johnson,liam_johnson572@example.com,Canada,2023-01-29
+CUST_00839,Sophia,Smith,sophia_smith838@example.com,NULL,2023-04-11
+CUST_00908,Ava,Miller,ava_miller907@example.com,UK,2023-06-07
+CUST_00675,Noah,Martinez,noah_martinez674example.com,"United State",2023-10-10
+CUST_00236,Mia,Johnson,mia_johnson235@example.com,Japan,2022-01-28
+CUST_00702,William,Brown,william_brown701@example.com,Japan,2023-08-18
+CUST_00950,Noah,Rodriguez,noah_rodriguez949@example.com,Germany,2023-10-14
+CUST_00464,Ava,williams,ava_williams463@example.com,UK,2022-07-24
+CUST_00271,oliver,Miller,oliver_miller270@example.com,"United State",2023-03-13
+CUST_00393,olivia,Smith,olivia_smith392@example.com,"United State",2023-10-03
+CUST_00499,Noah,Johnson,noah_johnson498@example.com,Canada,2023-05-26
+CUST_00708,Mia,Smith,mia_smith707@example.com,Australia,2023-05-01
+CUST_00412,olivia,williams,olivia_williams411@example.com,NULL,2022-07-05
+CUST_00456,Isabella,Smith,,"United State",2023-07-27
+CUST_00026,Benjamin,Miller,benjamin_miller25@example.com,Japan,2023-07-27
+CUST_00058,Isabella,Martinez,isabella_martinez57@example.com,NULL,2028-01-01
+CUST_00079,James,Brown,james_brown78@example.com,Australia,2023-04-01
+CUST_00928,Emma,Martinez,emma_martinez927@example.com,NULL,2023-04-30
+CUST_00033,olivia,Martinez,olivia_martinez32@example.com,"United State",2023-10-06
+CUST_00783,Sophia,garcia,sophia_garcia782@example.com,France,2023-02-27
+CUST_00889,Benjamin,Davis,benjamin_davis888example.com,Australia,2022-02-15
+CUST_00484,olivia,Brown,olivia_brown483@example.com,Japan,2022-08-04
+CUST_00856,Liam,Davis,liam_davis855@example.com,Germany,2023-03-02
+CUST_00164,James,garcia,james_garcia163@example.com,Germany,2023-11-07
+CUST_00204,Isabella,williams,isabella_williams203@example.com,"United State",2023-05-17
+CUST_00748,oliver,Johnson,oliver_johnson747@example.com,"United State",2022-07-16
+CUST_00864,William,garcia,william_garcia863@example.com,UK,2023-03-02
+CUST_00596,olivia,Jones,olivia_jones595@example.com,Canada,2022-06-19
+CUST_00500,James,Smith,james_smith499@example.com,NULL,2023-02-06
+CUST_00306,Isabella,Martinez,isabella_martinez305@example.com,"United State",2023-04-05
+CUST_00862,Liam,Rodriguez,liam_rodriguez861example.com,"United State",2022-05-01
+CUST_00952,Mia,Jones,mia_jones951@example.com,Germany,2022-08-03
+CUST_00022,Emma,williams,emma_williams21@example.com,France,2023-03-30
+CUST_00193,Benjamin,Miller,benjamin_miller192@example.com,Canada,2023-07-04
+CUST_00387,Benjamin,Rodriguez,benjamin_rodriguez386@example.com,Japan,2028-01-01
+CUST_00744,Liam,Johnson,liam_johnson743example.com,Australia,2022-02-13
+CUST_00192,Sophia,Miller,sophia_miller191@example.com,Australia,2023-07-02
+CUST_00219,Isabella,Johnson,isabella_johnson218@example.com,Canada,2022-10-11
+CUST_00603,oliver,Johnson,oliver_johnson602@example.com,"United State",2023-11-06
+CUST_00242,Liam,Rodriguez,liam_rodriguez241@example.com,"United State",2023-06-08
+CUST_00352,Sophia,Jones,sophia_jones351@example.com,UK,2023-05-08
+CUST_00972,Liam,Rodriguez,liam_rodriguez971@example.com,Germany,2022-07-11
+CUST_00711,Isabella,Davis,isabella_davis710@example.com,NULL,2022-09-24
+CUST_00447,Isabella,Davis,isabella_davis446@example.com,Australia,2022-11-11
+CUST_00801,James,Smith,james_smith800@example.com,NULL,2023-10-19
+CUST_00595,Benjamin,garcia,,Germany,2022-12-29
+CUST_00060,oliver,Brown,oliver_brown59@example.com,"United State",2022-09-04
+CUST_00987,Benjamin,Davis,benjamin_davis986@example.com,NULL,2022-01-19
+CUST_00385,olivia,Jones,olivia_jones384@example.com,"United State",2022-10-30
+CUST_00858,olivia,williams,olivia_williams857@example.com,"United State",2022-12-12
+CUST_00074,Emma,williams,emma_williams73@example.com,NULL,2022-03-10
+CUST_00326,Mia,Rodriguez,mia_rodriguez325@example.com,NULL,2023-11-10
+CUST_00163,Emma,Miller,emma_miller162@example.com,"United State",2022-01-10
+CUST_00649,Mia,Brown,mia_brown648@example.com,UK,2023-11-25
+CUST_00525,Isabella,garcia,isabella_garcia524@example.com,Germany,2022-12-27
+CUST_00659,James,williams,,"United State",2022-09-30
+CUST_00878,James,Jones,,Canada,2023-08-19
+CUST_00808,James,Davis,james_davis807@example.com,UK,2022-09-30
+CUST_00830,Sophia,Jones,sophia_jones829@example.com,NULL,2023-05-18
+CUST_00887,Liam,garcia,liam_garcia886@example.com,NULL,2022-05-27
+CUST_00233,Isabella,Martinez,isabella_martinez232example.com,France,2022-12-26
+CUST_00741,olivia,Smith,olivia_smith740@example.com,Canada,2023-03-29
+CUST_00893,James,Jones,james_jones892@example.com,NULL,2023-10-08
+CUST_00046,James,Brown,james_brown45@example.com,"United State",2022-04-14
+CUST_00602,Emma,Davis,emma_davis601@example.com,NULL,2022-02-15
+CUST_00439,olivia,Martinez,olivia_martinez438@example.com,Germany,2023-06-29
+CUST_00550,Benjamin,Johnson,benjamin_johnson549@example.com,Germany,2022-07-10
+CUST_00618,William,Rodriguez,william_rodriguez617@example.com,France,2023-08-11
+CUST_00077,Ava,Brown,,NULL,2023-02-01
+CUST_00206,oliver,williams,oliver_williams205@example.com,NULL,2023-08-28
+CUST_00258,Isabella,Brown,isabella_brown257@example.com,NULL,2028-01-01
+CUST_00608,Emma,williams,emma_williams607example.com,France,2023-01-28
+CUST_00746,Liam,Johnson,liam_johnson745@example.com,UK,2028-01-01
+CUST_00555,Mia,Martinez,mia_martinez554@example.com,Canada,2022-06-06
+CUST_00140,Mia,Rodriguez,mia_rodriguez139@example.com,"United State",2023-07-05
+CUST_00560,Mia,Jones,mia_jones559@example.com,NULL,2023-09-19
+CUST_00612,Mia,Davis,mia_davis611@example.com,NULL,2023-09-24
+CUST_00394,Mia,Jones,mia_jones393@example.com,Canada,2022-11-22
+CUST_00926,Liam,Martinez,liam_martinez925@example.com,UK,2023-03-10
+CUST_00031,Noah,garcia,,France,2023-06-07
+CUST_00249,Liam,Martinez,liam_martinez248@example.com,Japan,2022-02-15
+CUST_00314,Emma,Davis,emma_davis313@example.com,"United State",2022-11-07
+CUST_00413,oliver,Smith,oliver_smith412@example.com,Australia,2023-07-17
+CUST_00850,oliver,Martinez,oliver_martinez849@example.com,Australia,2022-03-04
+CUST_00412,olivia,williams,olivia_williams411@example.com,NULL,2022-07-05
+CUST_00757,olivia,Johnson,olivia_johnson756@example.com,UK,2023-02-18
+CUST_00581,Liam,Smith,liam_smith580@example.com,NULL,2023-09-18
+CUST_00155,James,Brown,james_brown154@example.com,Canada,2023-07-20
+CUST_00191,Liam,Miller,liam_miller190@example.com,NULL,2023-11-06
+CUST_00698,Mia,Johnson,mia_johnson697@example.com,NULL,2023-03-13
+CUST_00463,Benjamin,garcia,benjamin_garcia462@example.com,Australia,2022-08-12
+CUST_00181,Emma,Johnson,,Germany,2028-01-01
+CUST_00345,James,garcia,james_garcia344@example.com,NULL,2022-08-18
+CUST_00045,Mia,Miller,,NULL,2022-08-08
+CUST_00674,Liam,Johnson,liam_johnson673@example.com,NULL,2023-07-21
+CUST_00483,James,garcia,james_garcia482@example.com,Australia,2022-07-08
+CUST_00169,Mia,Smith,mia_smith168@example.com,Australia,2028-01-01
+CUST_00304,Sophia,Martinez,,Canada,2023-03-05
+CUST_00492,James,Rodriguez,james_rodriguez491example.com,Australia,2023-05-04
+CUST_00822,Benjamin,williams,,NULL,2022-06-22
+CUST_00353,Emma,Smith,emma_smith352@example.com,Germany,2022-06-02
+CUST_00092,Emma,williams,emma_williams91@example.com,UK,2022-05-28
+CUST_00684,Liam,Johnson,liam_johnson683@example.com,Germany,2023-03-06
+CUST_00336,oliver,Johnson,oliver_johnson335@example.com,"United State",2023-01-26
+CUST_00752,Liam,Rodriguez,liam_rodriguez751@example.com,Japan,2022-02-11
+CUST_00487,Noah,Jones,noah_jones486@example.com,Australia,2028-01-01
+CUST_00650,olivia,garcia,olivia_garcia649@example.com,NULL,2022-04-11
+CUST_00656,Emma,Jones,emma_jones655@example.com,Australia,2022-07-25
+CUST_00715,Noah,Rodriguez,noah_rodriguez714@example.com,Canada,2023-04-05
+CUST_00859,oliver,Brown,oliver_brown858@example.com,NULL,2022-12-30
+CUST_00535,oliver,Smith,oliver_smith534@example.com,"United State",2022-02-12
+CUST_00354,Isabella,Johnson,isabella_johnson353@example.com,NULL,2023-04-13
+CUST_00978,Noah,Rodriguez,noah_rodriguez977@example.com,Australia,2028-01-01
+CUST_00056,Liam,garcia,liam_garcia55@example.com,NULL,2023-04-29
+CUST_00740,Benjamin,Rodriguez,benjamin_rodriguez739@example.com,Canada,2022-03-20
+CUST_00186,oliver,Miller,oliver_miller185@example.com,Canada,2023-10-29
+CUST_00720,Emma,Miller,emma_miller719@example.com,Canada,2022-02-26
+CUST_00605,Isabella,garcia,isabella_garcia604@example.com,NULL,2022-10-08
+CUST_00716,olivia,Rodriguez,olivia_rodriguez715@example.com,Canada,2022-05-29
+CUST_00224,Sophia,Brown,sophia_brown223@example.com,Australia,2022-10-18
+CUST_00301,Sophia,Davis,sophia_davis300@example.com,"United State",2023-02-01
+CUST_00461,James,Johnson,james_johnson460@example.com,UK,2022-08-24
+CUST_00802,Sophia,Brown,sophia_brown801@example.com,"United State",2022-09-13
+CUST_00751,William,Miller,william_miller750@example.com,Canada,2022-11-18
+CUST_00284,olivia,Johnson,olivia_johnson283@example.com,"United State",2023-11-10
+CUST_00564,Sophia,Brown,sophia_brown563@example.com,UK,2023-03-26
+CUST_00316,William,Jones,william_jones315@example.com,"United State",2022-08-05
+CUST_00037,Liam,Martinez,liam_martinez36@example.com,Germany,2022-02-12
+CUST_00281,oliver,Brown,oliver_brown280@example.com,Australia,2022-06-29
+CUST_00090,Ava,Brown,ava_brown89@example.com,NULL,2023-10-05
+CUST_00176,William,Martinez,william_martinez175@example.com,Canada,2028-01-01
+CUST_00543,James,Smith,james_smith542@example.com,France,2022-03-29
+CUST_00559,olivia,Smith,olivia_smith558@example.com,Canada,2022-11-07
+CUST_00780,olivia,Smith,olivia_smith779@example.com,NULL,2022-08-07
+CUST_00038,oliver,Brown,oliver_brown37@example.com,NULL,2023-04-07
+CUST_00124,olivia,Rodriguez,olivia_rodriguez123@example.com,"United State",2023-04-15
+CUST_00465,Noah,Jones,noah_jones464@example.com,UK,2022-12-31
+CUST_00587,oliver,Martinez,oliver_martinez586@example.com,Germany,2023-10-10
+CUST_00395,olivia,Rodriguez,olivia_rodriguez394@example.com,Canada,2023-02-18
+CUST_00505,William,Smith,william_smith504@example.com,"United State",2023-03-21
+CUST_00636,Isabella,Martinez,,Canada,2022-01-12
+CUST_00040,oliver,williams,oliver_williams39@example.com,Canada,2022-12-13
+CUST_00731,Mia,Jones,mia_jones730@example.com,Japan,2022-01-30
+CUST_00562,James,williams,james_williams561@example.com,Japan,2022-07-08
+CUST_00332,Mia,Davis,mia_davis331@example.com,Australia,2022-06-24
+CUST_00745,Emma,Rodriguez,emma_rodriguez744@example.com,NULL,2022-11-05
+CUST_00409,Mia,williams,mia_williams408@example.com,Japan,2022-01-12
+CUST_00195,Mia,Miller,mia_miller194@example.com,Canada,2022-04-11
+CUST_00727,Liam,Martinez,,Canada,2022-10-07
+CUST_00991,Sophia,Jones,sophia_jones990@example.com,"United State",2022-07-26
+CUST_00123,oliver,Johnson,oliver_johnson122@example.com,Australia,2023-07-11
+CUST_00323,Mia,Brown,mia_brown322@example.com,Canada,2028-01-01
+CUST_00528,Sophia,Smith,sophia_smith527@example.com,NULL,2022-05-19
+CUST_00105,Benjamin,Martinez,benjamin_martinez104@example.com,Canada,2022-04-23
+CUST_00267,Noah,Johnson,noah_johnson266@example.com,NULL,2022-03-05
+CUST_00580,William,Smith,,Germany,2022-11-02
+CUST_00357,olivia,garcia,olivia_garcia356@example.com,Germany,2022-04-06
+CUST_00398,Noah,Smith,noah_smith397@example.com,"United State",2023-07-08
+CUST_00068,William,Smith,william_smith67@example.com,"United State",2023-03-24
+CUST_00278,Noah,Jones,noah_jones277@example.com,Japan,2022-08-13
+CUST_00607,Benjamin,Jones,benjamin_jones606@example.com,NULL,2022-12-13
+CUST_00750,Benjamin,Davis,benjamin_davis749@example.com,Australia,2022-04-20
+CUST_00765,Emma,Smith,emma_smith764@example.com,NULL,2022-06-18
+CUST_00269,oliver,Jones,,"United State",2023-10-24
+CUST_00853,James,Brown,james_brown852@example.com,France,2023-09-09
+CUST_00160,Mia,garcia,mia_garcia159@example.com,Japan,2023-05-18
+CUST_00542,Mia,Smith,mia_smith541@example.com,Canada,2023-03-29
+CUST_00615,oliver,Martinez,oliver_martinez614@example.com,Japan,2022-11-30
+CUST_00514,Isabella,Miller,isabella_miller513@example.com,Germany,2023-09-28
+CUST_00743,Benjamin,williams,benjamin_williams742@example.com,UK,2022-03-22
+CUST_00338,James,williams,james_williams337@example.com,"United State",2023-10-09
+CUST_00788,Sophia,garcia,sophia_garcia787@example.com,Canada,2022-05-24
+CUST_00419,James,Rodriguez,james_rodriguez418@example.com,"United State",2022-05-24
+CUST_00586,Benjamin,Martinez,benjamin_martinez585@example.com,NULL,2022-11-21
+CUST_00379,Sophia,Martinez,sophia_martinez378@example.com,NULL,2022-12-18
+CUST_00530,Isabella,Rodriguez,isabella_rodriguez529@example.com,NULL,2022-12-31
+CUST_00511,Emma,Davis,emma_davis510@example.com,Australia,2022-07-14
+CUST_00692,Sophia,Brown,sophia_brown691@example.com,UK,2023-08-29
+CUST_00020,Liam,williams,liam_williams19@example.com,"United State",2022-08-09
+CUST_00099,Sophia,garcia,sophia_garcia98example.com,"United State",2022-07-19
+CUST_00009,Liam,williams,liam_williams8@example.com,Australia,2023-01-26
+CUST_00847,James,Davis,james_davis846@example.com,Germany,2022-10-29
+CUST_00824,oliver,williams,,Australia,2028-01-01
+CUST_00866,Benjamin,Miller,benjamin_miller865@example.com,NULL,2023-06-27
+CUST_00894,Benjamin,Jones,benjamin_jones893@example.com,Australia,2023-09-26
+CUST_00826,James,Davis,james_davis825@example.com,Germany,2022-12-04
+CUST_00347,Sophia,Jones,sophia_jones346@example.com,Germany,2023-11-09
+CUST_00262,Ava,Brown,ava_brown261@example.com,Germany,2022-04-19
+CUST_00539,Benjamin,williams,benjamin_williams538@example.com,UK,2023-10-30
+CUST_00259,Noah,Rodriguez,noah_rodriguez258@example.com,Australia,2022-03-28
+CUST_00730,Noah,Smith,noah_smith729@example.com,NULL,2023-10-14
+CUST_00241,Emma,Miller,emma_miller240@example.com,Australia,2023-03-10
+CUST_00425,olivia,Davis,,Australia,2022-09-28
+CUST_00920,Benjamin,Martinez,benjamin_martinez919@example.com,NULL,2022-05-12
+CUST_00969,oliver,Smith,,NULL,2022-12-05
+CUST_00107,Mia,Martinez,mia_martinez106@example.com,Germany,2023-06-21
+CUST_00621,Mia,Smith,mia_smith620@example.com,Germany,2023-10-14
+CUST_00366,Isabella,Davis,isabella_davis365@example.com,"United State",2022-11-25
+CUST_00881,William,Davis,william_davis880@example.com,Canada,2022-03-05
+CUST_00243,olivia,Rodriguez,olivia_rodriguez242@example.com,France,2022-03-09
+CUST_00663,Isabella,garcia,isabella_garcia662@example.com,NULL,2022-06-30
+CUST_00693,oliver,Smith,,Australia,2028-01-01
+CUST_00733,Ava,Davis,ava_davis732@example.com,Canada,2028-01-01
+CUST_00062,Sophia,Davis,sophia_davis61example.com,Canada,2022-09-17
+CUST_00668,Mia,Rodriguez,mia_rodriguez667@example.com,Australia,2023-08-17
+CUST_00533,Liam,Martinez,,Germany,2022-02-27
+CUST_00982,Mia,Rodriguez,mia_rodriguez981@example.com,Japan,2022-08-11
+CUST_00319,Noah,Smith,noah_smith318@example.com,Canada,2022-10-08
+CUST_00549,Mia,garcia,,France,2023-01-25
+CUST_00792,Ava,Martinez,ava_martinez791@example.com,Japan,2022-11-21
+CUST_00639,olivia,Martinez,olivia_martinez638@example.com,Japan,2022-10-21
+CUST_00860,Isabella,Jones,isabella_jones859@example.com,Australia,2022-04-17
+CUST_00140,Mia,Rodriguez,mia_rodriguez139@example.com,"United State",2023-07-05
+CUST_00344,Ava,Jones,ava_jones343@example.com,Australia,2022-05-18
+CUST_00399,Emma,Rodriguez,emma_rodriguez398@example.com,Australia,2022-02-14
+CUST_00432,Benjamin,Johnson,benjamin_johnson431@example.com,UK,2023-10-25
+CUST_00293,Liam,Davis,liam_davis292@example.com,France,2023-04-08
+CUST_00882,olivia,Davis,,France,2023-08-26
+CUST_00910,Ava,Miller,ava_miller909@example.com,Canada,2022-12-17
+CUST_00902,Noah,Martinez,noah_martinez901@example.com,Australia,2022-04-28
+CUST_00142,Sophia,Brown,sophia_brown141@example.com,NULL,2028-01-01
+CUST_00816,James,garcia,james_garcia815@example.com,Canada,2023-03-20
+CUST_00003,olivia,Martinez,olivia_martinez2example.com,NULL,2023-07-08
+CUST_00389,Benjamin,Jones,benjamin_jones388@example.com,Australia,2023-10-11
+CUST_00340,olivia,Davis,olivia_davis339@example.com,NULL,2023-10-11
+CUST_00713,olivia,Rodriguez,olivia_rodriguez712@example.com,Japan,2023-11-14
+CUST_00266,Ava,williams,ava_williams265example.com,Canada,2023-07-24
+CUST_00377,Emma,Rodriguez,emma_rodriguez376@example.com,Australia,2022-07-01
+CUST_00975,Sophia,Davis,sophia_davis974@example.com,UK,2022-07-30
+CUST_00440,Liam,Johnson,liam_johnson439@example.com,Germany,2022-01-02
+CUST_00272,Noah,williams,noah_williams271@example.com,NULL,2023-09-27
+CUST_00245,Ava,williams,ava_williams244@example.com,NULL,2023-05-24
+CUST_00617,James,Miller,james_miller616@example.com,Japan,2023-03-22
+CUST_00591,Ava,Jones,ava_jones590@example.com,"United State",2022-12-08
+CUST_00671,Liam,Davis,liam_davis670@example.com,"United State",2022-04-19
+CUST_00869,William,Miller,william_miller868@example.com,"United State",2022-02-07
+CUST_00416,Mia,Jones,mia_jones415@example.com,Germany,2022-11-20
+CUST_00274,Sophia,Brown,sophia_brown273@example.com,UK,2023-07-11
+CUST_00884,Sophia,williams,sophia_williams883@example.com,Japan,2023-06-10
+CUST_00251,Emma,Rodriguez,emma_rodriguez250@example.com,France,2022-11-26
+CUST_00414,Mia,Johnson,mia_johnson413@example.com,Germany,2022-12-05
+CUST_00546,Isabella,Davis,isabella_davis545@example.com,Japan,2022-01-19
+CUST_00170,olivia,Johnson,olivia_johnson169@example.com,Canada,2022-04-08
+CUST_00311,Liam,Johnson,liam_johnson310@example.com,NULL,2022-12-19
+CUST_00645,Ava,Johnson,ava_johnson644@example.com,Australia,2023-06-30
+CUST_00631,James,Rodriguez,james_rodriguez630@example.com,Canada,2022-07-10
+CUST_00426,Emma,Brown,emma_brown425@example.com,Canada,2023-04-11
+CUST_00493,Sophia,Jones,sophia_jones492@example.com,Australia,2023-02-26
+CUST_00600,James,Rodriguez,james_rodriguez599@example.com,Australia,2023-06-21
+CUST_00848,Sophia,Smith,sophia_smith847@example.com,Japan,2023-03-02
+CUST_00397,Isabella,Smith,isabella_smith396@example.com,UK,2023-09-21
+CUST_00786,Ava,williams,ava_williams785example.com,NULL,2022-06-30
+CUST_00516,Isabella,williams,isabella_williams515@example.com,France,2022-04-09
+CUST_00619,Liam,Martinez,liam_martinez618@example.com,"United State",2022-06-30
+CUST_00527,oliver,Rodriguez,oliver_rodriguez526@example.com,Japan,2023-04-09
+CUST_00967,Isabella,Smith,isabella_smith966@example.com,NULL,2022-01-10
+CUST_00729,James,Smith,james_smith728@example.com,Germany,2023-07-27
+CUST_00183,olivia,Miller,olivia_miller182@example.com,NULL,2022-03-06
+CUST_00171,Emma,Brown,emma_brown170@example.com,Germany,2022-02-17
+CUST_00884,Sophia,williams,sophia_williams883@example.com,Japan,2023-06-10
+CUST_00998,Liam,Rodriguez,liam_rodriguez997@example.com,Germany,2022-04-08
+CUST_00188,William,Jones,william_jones187@example.com,Germany,2022-11-30
+CUST_00152,James,garcia,james_garcia151@example.com,UK,2023-01-22
+CUST_00961,William,Smith,william_smith960@example.com,France,2022-11-06
+CUST_00718,Benjamin,Jones,benjamin_jones717@example.com,Germany,2023-08-02
+CUST_00273,Mia,Jones,mia_jones272@example.com,Australia,2022-10-14
+CUST_00490,Mia,Rodriguez,mia_rodriguez489@example.com,Australia,2022-04-02
+CUST_00782,Benjamin,Smith,benjamin_smith781@example.com,NULL,2022-11-04
+CUST_00528,Sophia,Smith,sophia_smith527@example.com,NULL,2022-05-19
+CUST_00372,James,Johnson,james_johnson371@example.com,"United State",2023-10-11
+CUST_00223,Emma,Johnson,emma_johnson222@example.com,France,2022-03-06
+CUST_00925,Noah,Smith,noah_smith924@example.com,Australia,2023-02-06
+CUST_00633,oliver,garcia,oliver_garcia632example.com,"United State",2023-01-13
+CUST_00876,Emma,Rodriguez,emma_rodriguez875@example.com,NULL,2023-06-02
+CUST_00519,William,Brown,,UK,2022-03-23
+CUST_00335,William,garcia,william_garcia334@example.com,"United State",2023-10-12
+CUST_00787,Emma,Davis,,"United State",2022-11-02
+CUST_00250,Emma,Brown,emma_brown249example.com,Canada,2022-06-03
+CUST_00086,Isabella,williams,isabella_williams85@example.com,Japan,2023-06-16
+CUST_00680,Noah,Johnson,noah_johnson679@example.com,Germany,2023-07-07
+CUST_00016,Isabella,Brown,isabella_brown15@example.com,"United State",2023-07-24
+CUST_00766,olivia,Jones,olivia_jones765@example.com,"United State",2023-05-18
+CUST_00949,oliver,Miller,,NULL,2022-05-14
+CUST_00538,Liam,Davis,,Canada,2023-02-13
+CUST_00489,Benjamin,Rodriguez,benjamin_rodriguez488@example.com,France,2023-08-01
+CUST_00571,oliver,Rodriguez,oliver_rodriguez570@example.com,NULL,2023-04-10
+CUST_00682,olivia,Smith,olivia_smith681@example.com,UK,2022-12-09
+CUST_00211,Sophia,Davis,sophia_davis210@example.com,Australia,2028-01-01
+CUST_00466,Liam,Johnson,liam_johnson465@example.com,France,2022-01-07
+CUST_00867,Noah,williams,noah_williams866@example.com,Canada,2023-06-13
+CUST_00200,Emma,Johnson,emma_johnson199example.com,Canada,2023-11-25
+CUST_00374,Benjamin,Miller,benjamin_miller373@example.com,UK,2023-02-07
+CUST_00485,Liam,Johnson,liam_johnson484@example.com,Australia,2023-02-11
+CUST_00081,Benjamin,williams,benjamin_williams80@example.com,"United State",2022-05-23
+CUST_00339,William,Smith,william_smith338example.com,NULL,2022-06-22
+CUST_00957,Liam,williams,liam_williams956@example.com,Australia,2028-01-01
+CUST_00592,Benjamin,Martinez,,NULL,2022-12-13
+CUST_00741,olivia,Smith,olivia_smith740@example.com,Canada,2023-03-29
+CUST_00012,James,Miller,,Canada,2022-09-19
+CUST_00497,James,Martinez,james_martinez496@example.com,Australia,2022-01-20
+CUST_00569,Sophia,Jones,sophia_jones568@example.com,NULL,2023-09-20
+CUST_00756,Isabella,Johnson,isabella_johnson755@example.com,Japan,2022-04-15
+CUST_00641,Ava,Smith,ava_smith640@example.com,Germany,2023-11-06
+CUST_00044,William,williams,william_williams43@example.com,Japan,2023-06-24
+CUST_00890,oliver,Jones,oliver_jones889@example.com,Canada,2023-09-13
+CUST_00275,Sophia,garcia,sophia_garcia274@example.com,Canada,2023-05-30
+CUST_00524,Mia,Davis,mia_davis523@example.com,"United State",2022-07-04
+CUST_00102,Noah,Martinez,noah_martinez101@example.com,NULL,2022-12-08
+CUST_00984,olivia,Jones,,"United State",2023-11-23
+CUST_00823,Ava,Martinez,ava_martinez822@example.com,Germany,2022-01-05
+CUST_00838,oliver,Johnson,,Japan,2022-07-03
+CUST_00108,oliver,Miller,oliver_miller107@example.com,"United State",2022-04-23
+CUST_00776,Isabella,Brown,,Germany,2022-08-20
+CUST_00498,Isabella,Smith,isabella_smith497@example.com,NULL,2023-03-25
+CUST_00131,olivia,Davis,olivia_davis130@example.com,Germany,2023-07-17
+CUST_00999,Mia,Miller,mia_miller998@example.com,Japan,2022-06-29
+CUST_00852,oliver,garcia,oliver_garcia851@example.com,NULL,2022-07-16
+CUST_00699,Benjamin,Martinez,benjamin_martinez698@example.com,France,2022-12-10
+CUST_00915,Sophia,Martinez,sophia_martinez914@example.com,Japan,2022-05-08
+CUST_00061,olivia,Johnson,olivia_johnson60@example.com,Australia,2023-06-04
+CUST_00217,olivia,Martinez,olivia_martinez216@example.com,UK,2023-08-07
+CUST_00695,Emma,Miller,emma_miller694@example.com,NULL,2028-01-01
+CUST_00986,olivia,garcia,olivia_garcia985@example.com,Australia,2023-07-16
+CUST_00073,Emma,Johnson,emma_johnson72@example.com,Australia,2023-11-27
+CUST_00849,Benjamin,Martinez,benjamin_martinez848@example.com,NULL,2023-02-14
+CUST_00450,Benjamin,Smith,benjamin_smith449@example.com,"United State",2022-05-29
+CUST_00154,Noah,garcia,noah_garcia153@example.com,UK,2022-05-01
+CUST_00927,Noah,Brown,noah_brown926@example.com,France,2022-01-29
+CUST_00482,William,Brown,william_brown481@example.com,Japan,2023-10-23
+CUST_00365,Mia,Miller,mia_miller364@example.com,Germany,2023-10-21
+CUST_00507,Benjamin,Davis,benjamin_davis506@example.com,"United State",2023-05-27
+CUST_00764,Emma,Miller,emma_miller763@example.com,Australia,2023-01-21
+CUST_00868,William,Smith,william_smith867@example.com,Japan,2022-03-13
+CUST_00467,Isabella,Smith,isabella_smith466@example.com,Canada,2023-08-12
+CUST_00836,Ava,Brown,ava_brown835@example.com,"United State",2022-02-16
+CUST_00749,olivia,Rodriguez,olivia_rodriguez748example.com,Japan,2022-08-08
+CUST_00661,Liam,Rodriguez,liam_rodriguez660@example.com,Japan,2023-05-09
+CUST_00312,Ava,Miller,ava_miller311@example.com,NULL,2022-10-10
+CUST_00935,oliver,Brown,,Japan,2022-07-18
+CUST_00406,oliver,Johnson,oliver_johnson405@example.com,Japan,2023-01-02
+CUST_00916,Noah,Davis,noah_davis915example.com,NULL,2022-10-15
+CUST_00790,Liam,Brown,liam_brown789@example.com,Canada,2023-08-22
+CUST_00098,oliver,Davis,,"United State",2022-09-28
+CUST_00310,oliver,Martinez,oliver_martinez309@example.com,Canada,2023-08-04
+CUST_00227,Sophia,Brown,sophia_brown226@example.com,France,2022-10-08
+CUST_00187,olivia,Jones,olivia_jones186@example.com,UK,2022-07-01
+CUST_00870,Mia,williams,,France,2023-11-08
+CUST_00512,Isabella,garcia,isabella_garcia511@example.com,Germany,2023-07-22
+CUST_00933,Sophia,Brown,sophia_brown932@example.com,NULL,2023-01-29
+CUST_00897,Isabella,Martinez,isabella_martinez896@example.com,Australia,2022-01-24
+CUST_00149,Isabella,garcia,isabella_garcia148@example.com,NULL,2023-07-05
+CUST_00705,James,Rodriguez,james_rodriguez704@example.com,NULL,2023-01-12
+CUST_00807,Ava,williams,ava_williams806@example.com,Germany,2023-06-23
+CUST_00939,Mia,williams,mia_williams938@example.com,Australia,2023-03-09
+CUST_00922,Mia,Smith,mia_smith921@example.com,Australia,2023-11-29
+CUST_00945,Noah,Martinez,noah_martinez944@example.com,"United State",2022-10-18
+CUST_00576,James,Jones,james_jones575@example.com,NULL,2022-01-04
+CUST_00558,olivia,Martinez,olivia_martinez557@example.com,Australia,2022-05-02
+CUST_00634,James,Johnson,james_johnson633@example.com,NULL,2022-03-22
+CUST_00789,oliver,Rodriguez,oliver_rodriguez788@example.com,Germany,2023-06-22
+CUST_00401,Mia,Johnson,mia_johnson400@example.com,UK,2023-03-11
+CUST_00455,olivia,Johnson,olivia_johnson454@example.com,Canada,2023-02-20
+CUST_00268,Noah,williams,noah_williams267@example.com,France,2023-10-23
+CUST_00703,Benjamin,Brown,benjamin_brown702@example.com,Canada,2022-10-01
+CUST_00168,Sophia,Davis,sophia_davis167@example.com,UK,2022-03-24
+CUST_00996,William,Smith,william_smith995@example.com,"United State",2022-10-13
+CUST_00287,Noah,Martinez,noah_martinez286@example.com,Japan,2022-05-11
+CUST_00027,William,Johnson,william_johnson26@example.com,NULL,2022-03-21
+CUST_00970,oliver,Martinez,oliver_martinez969@example.com,Canada,2023-02-05
+CUST_00629,Emma,williams,emma_williams628@example.com,Canada,2022-05-20
+CUST_00599,Ava,williams,ava_williams598@example.com,UK,2023-03-31
+CUST_00585,Noah,Martinez,noah_martinez584@example.com,France,2022-03-31
+CUST_00901,Liam,garcia,liam_garcia900@example.com,NULL,2022-05-04
+CUST_00153,oliver,Smith,oliver_smith152@example.com,Germany,2023-07-27
+CUST_00677,oliver,Jones,oliver_jones676@example.com,Australia,2022-07-31
+CUST_00017,Ava,Martinez,ava_martinez16@example.com,Australia,2023-09-29
+CUST_00034,oliver,Martinez,oliver_martinez33@example.com,Germany,2023-10-02
+CUST_00041,Emma,garcia,,France,2022-09-16
+CUST_00313,oliver,Martinez,oliver_martinez312@example.com,Canada,2022-12-06
+CUST_00042,Mia,Martinez,mia_martinez41@example.com,Germany,2022-12-25
+CUST_00722,James,Johnson,james_johnson721@example.com,Australia,2023-09-12
+CUST_00146,Benjamin,Martinez,benjamin_martinez145@example.com,France,2022-08-31
+CUST_00965,Benjamin,Brown,benjamin_brown964@example.com,Australia,2023-04-18
+CUST_00610,Ava,garcia,ava_garcia609@example.com,France,2022-03-22
+CUST_00109,James,garcia,james_garcia108@example.com,UK,2023-09-19
+CUST_00899,Liam,Rodriguez,liam_rodriguez898@example.com,NULL,2022-06-07
+CUST_00442,James,Miller,james_miller441@example.com,Japan,2023-03-12
+CUST_00843,Ava,Martinez,ava_martinez842@example.com,Japan,2023-11-23
+CUST_00004,olivia,Johnson,,"United State",2022-09-01
+CUST_00494,Sophia,Miller,sophia_miller493@example.com,France,2023-01-23
+CUST_00235,olivia,Johnson,olivia_johnson234@example.com,Canada,2022-05-24
+CUST_00278,Noah,Jones,noah_jones277@example.com,Japan,2022-08-13
+CUST_00201,Benjamin,Brown,benjamin_brown200@example.com,Canada,2023-04-19
+CUST_00359,James,Miller,james_miller358@example.com,"United State",2022-03-02
+CUST_00281,oliver,Brown,oliver_brown280@example.com,Australia,2022-06-29
+CUST_00237,Mia,Jones,mia_jones236@example.com,UK,2022-10-30
+CUST_00552,Sophia,williams,sophia_williams551example.com,France,2023-10-03
+CUST_00521,Ava,Rodriguez,ava_rodriguez520example.com,"United State",2022-03-21
+CUST_00762,Ava,Martinez,ava_martinez761@example.com,France,2023-05-20
+CUST_00209,Mia,williams,mia_williams208@example.com,NULL,2023-04-07
+CUST_00115,olivia,Jones,olivia_jones114example.com,Japan,2023-03-29
+CUST_00721,Noah,Martinez,noah_martinez720@example.com,NULL,2022-03-27
+CUST_00128,Noah,Davis,noah_davis127@example.com,NULL,2028-01-01
+CUST_00059,Sophia,Martinez,sophia_martinez58@example.com,Australia,2022-01-17
+CUST_00632,Emma,Martinez,emma_martinez631@example.com,Japan,2023-02-25
+CUST_00158,Emma,Martinez,emma_martinez157@example.com,"United State",2023-08-22
+CUST_00714,olivia,Brown,olivia_brown713@example.com,Germany,2022-09-24
+CUST_00593,James,Davis,james_davis592@example.com,Australia,2023-04-17
+CUST_00280,Benjamin,garcia,,Japan,2023-08-05
+CUST_00364,Isabella,Rodriguez,isabella_rodriguez363@example.com,Canada,2022-09-12
+CUST_00506,olivia,Jones,olivia_jones505@example.com,NULL,2022-02-13
+CUST_00762,Ava,Martinez,ava_martinez761@example.com,France,2023-05-20
+CUST_00053,Isabella,Johnson,isabella_johnson52@example.com,NULL,2023-06-10
+CUST_00226,Mia,Davis,mia_davis225example.com,NULL,2022-01-01
+CUST_00734,Ava,williams,ava_williams733@example.com,Australia,2022-05-19
+CUST_00256,Isabella,Brown,isabella_brown255@example.com,"United State",2022-12-21
+CUST_00975,Sophia,Davis,sophia_davis974@example.com,UK,2022-07-30
+CUST_00532,oliver,Brown,oliver_brown531@example.com,Australia,2023-08-14
+CUST_00921,olivia,Jones,olivia_jones920@example.com,Australia,2022-10-08
+CUST_00119,olivia,Miller,olivia_miller118@example.com,Australia,2022-07-24
+CUST_00471,William,garcia,william_garcia470@example.com,Australia,2022-10-03
+CUST_00707,Liam,Johnson,liam_johnson706@example.com,NULL,2022-07-29
+CUST_00863,William,williams,william_williams862@example.com,Australia,2022-04-12
+CUST_00523,oliver,williams,oliver_williams522@example.com,Japan,2023-10-16
+CUST_00709,James,Smith,,UK,2023-06-17
+CUST_00514,Isabella,Miller,isabella_miller513@example.com,Germany,2023-09-28
+CUST_00082,James,Smith,james_smith81@example.com,Australia,2023-07-19
+CUST_00700,Emma,Rodriguez,emma_rodriguez699@example.com,"United State",2023-01-10
+CUST_00818,Sophia,Jones,sophia_jones817@example.com,NULL,2023-03-23
+CUST_00548,oliver,Jones,oliver_jones547@example.com,"United State",2023-11-08
+CUST_00381,Benjamin,Rodriguez,benjamin_rodriguez380@example.com,Germany,2022-12-20
+CUST_00624,William,Johnson,william_johnson623@example.com,Australia,2022-05-11
+CUST_00147,olivia,Rodriguez,olivia_rodriguez146@example.com,"United State",2023-08-29
+CUST_00085,olivia,Rodriguez,olivia_rodriguez84@example.com,NULL,2022-02-26
+CUST_00151,Sophia,Rodriguez,sophia_rodriguez150@example.com,NULL,2023-10-25
+CUST_00673,Liam,Martinez,liam_martinez672@example.com,UK,2023-08-31
+CUST_00330,Benjamin,Smith,benjamin_smith329@example.com,NULL,2023-02-19
+CUST_00007,Mia,Rodriguez,mia_rodriguez6@example.com,"United State",2023-05-06
+CUST_00735,Emma,Jones,emma_jones734@example.com,NULL,2022-10-26
+CUST_00841,oliver,Jones,oliver_jones840@example.com,NULL,2023-02-09
+CUST_00854,Benjamin,Davis,benjamin_davis853@example.com,Japan,2023-03-03
+CUST_00165,Emma,Rodriguez,,Australia,2023-07-03
+CUST_00989,olivia,Davis,olivia_davis988@example.com,"United State",2023-06-30
+CUST_00452,Sophia,Martinez,sophia_martinez451@example.com,Germany,2022-06-29
+CUST_00491,William,Miller,william_miller490@example.com,"United State",2022-05-20
+CUST_00120,Ava,garcia,,"United State",2022-08-26
+CUST_00288,Emma,Martinez,emma_martinez287@example.com,NULL,2023-09-09
+CUST_00903,William,Davis,,"United State",2022-08-28
+CUST_00088,Liam,Rodriguez,liam_rodriguez87@example.com,Germany,2023-11-06
+CUST_00096,Noah,williams,noah_williams95@example.com,Australia,2028-01-01
+CUST_00860,Isabella,Jones,isabella_jones859@example.com,Australia,2022-04-17
+CUST_00622,olivia,williams,olivia_williams621@example.com,Germany,2022-07-20
+CUST_00903,William,Davis,,"United State",2022-08-28
+CUST_00609,Sophia,Miller,sophia_miller608@example.com,Germany,2023-04-02
+CUST_00900,Sophia,williams,sophia_williams899@example.com,NULL,2022-03-01
+CUST_00995,Sophia,Miller,sophia_miller994@example.com,Canada,2022-01-16
+CUST_00229,Benjamin,Brown,,NULL,2023-05-04
+CUST_00239,Emma,garcia,emma_garcia238@example.com,Germany,2023-07-14
+CUST_00761,Emma,Johnson,,NULL,2023-11-27
+CUST_00054,Sophia,Johnson,sophia_johnson53@example.com,Australia,2022-01-28
+CUST_00328,Ava,garcia,ava_garcia327@example.com,Japan,2023-10-30
+CUST_00767,Mia,Rodriguez,mia_rodriguez766@example.com,NULL,2023-02-05
+CUST_00443,James,Brown,,Germany,2023-02-23
+CUST_00759,William,Davis,william_davis758@example.com,Australia,2022-05-31
+CUST_00371,Emma,Brown,emma_brown370@example.com,Germany,2023-11-04
+CUST_00008,Sophia,Johnson,sophia_johnson7@example.com,"United State",2022-11-26
+CUST_00349,olivia,Brown,olivia_brown348@example.com,NULL,2022-04-14
+CUST_00994,Isabella,Johnson,isabella_johnson993@example.com,France,2022-08-01
+CUST_00178,Sophia,Johnson,sophia_johnson177@example.com,UK,2022-03-26
+CUST_00833,William,Martinez,william_martinez832@example.com,NULL,2022-12-16
+CUST_00797,Ava,Jones,ava_jones796@example.com,UK,2022-06-14
+CUST_00087,Liam,Jones,liam_jones86@example.com,NULL,2022-11-07
+CUST_00380,James,williams,james_williams379@example.com,Japan,2023-07-15
+CUST_00162,Emma,Rodriguez,emma_rodriguez161example.com,"United State",2028-01-01
+CUST_00458,oliver,Smith,oliver_smith457@example.com,"United State",2023-05-31
+CUST_00778,Noah,garcia,noah_garcia777@example.com,NULL,2022-11-04
+CUST_00643,Liam,williams,liam_williams642@example.com,Australia,2023-02-27
+CUST_00055,Sophia,Rodriguez,sophia_rodriguez54@example.com,"United State",2022-01-29
+CUST_00264,Liam,Johnson,liam_johnson263@example.com,Japan,2022-02-11
+CUST_00644,Noah,Davis,noah_davis643@example.com,Germany,2022-12-20
+CUST_00678,Ava,Rodriguez,ava_rodriguez677@example.com,NULL,2022-02-08
+CUST_00222,Liam,Miller,liam_miller221@example.com,Canada,2023-05-15
+CUST_00114,Benjamin,Jones,benjamin_jones113@example.com,Australia,2023-02-09
+CUST_00113,Ava,Jones,ava_jones112@example.com,Australia,2022-12-24
+CUST_00502,Benjamin,Brown,benjamin_brown501@example.com,UK,2022-02-04
+CUST_00194,Liam,Johnson,liam_johnson193@example.com,Canada,2028-01-01
+CUST_00175,Benjamin,Johnson,benjamin_johnson174@example.com,"United State",2022-08-26
+CUST_00880,Benjamin,Miller,benjamin_miller879@example.com,Canada,2022-07-17
+CUST_00590,Mia,Brown,mia_brown589example.com,UK,2022-09-18
+CUST_00827,Mia,Martinez,mia_martinez826@example.com,Japan,2023-08-06
+CUST_00018,Mia,Rodriguez,mia_rodriguez17example.com,France,2028-01-01
+CUST_00019,Ava,Jones,ava_jones18@example.com,NULL,2023-08-03
+CUST_00424,oliver,williams,oliver_williams423@example.com,NULL,2023-08-03
+CUST_00144,Emma,Davis,emma_davis143@example.com,"United State",2022-02-15
+CUST_00286,James,garcia,james_garcia285@example.com,Japan,2023-09-21
+CUST_00477,Ava,Davis,,Japan,2023-01-05
+CUST_00429,Sophia,Brown,sophia_brown428@example.com,Canada,2023-05-09
+CUST_00305,Mia,Davis,mia_davis304@example.com,NULL,2022-02-05
+CUST_00846,Ava,Davis,ava_davis845@example.com,"United State",2022-06-06
+CUST_00670,Benjamin,williams,benjamin_williams669example.com,NULL,2022-11-11
+CUST_00032,William,garcia,william_garcia31@example.com,NULL,2022-05-30
+CUST_00097,Sophia,Rodriguez,sophia_rodriguez96@example.com,Germany,2022-02-21
+CUST_00723,Emma,garcia,emma_garcia722@example.com,Canada,2028-01-01
+CUST_00435,oliver,Smith,oliver_smith434@example.com,NULL,2022-08-10
+CUST_00215,Liam,Brown,liam_brown214@example.com,Australia,2022-03-31
+CUST_00919,Noah,Miller,noah_miller918@example.com,Australia,2023-07-20
+CUST_00736,Liam,Rodriguez,liam_rodriguez735@example.com,"United State",2022-06-21
+CUST_00892,oliver,Martinez,oliver_martinez891@example.com,Canada,2022-02-16
+CUST_00327,William,Rodriguez,william_rodriguez326@example.com,NULL,2023-05-09
+CUST_00561,oliver,Martinez,oliver_martinez560@example.com,UK,2023-01-03
+CUST_00360,olivia,Johnson,olivia_johnson359@example.com,Germany,2022-07-05
+CUST_00701,Emma,garcia,emma_garcia700@example.com,Japan,2022-07-29
+CUST_00845,Noah,Davis,noah_davis844@example.com,Canada,2023-07-06
+CUST_00476,Ava,Jones,ava_jones475@example.com,Canada,2022-06-17
+CUST_00342,Isabella,Brown,isabella_brown341example.com,"United State",2022-09-12
+CUST_00630,Mia,Miller,mia_miller629@example.com,Japan,2023-03-12
+CUST_00148,olivia,Miller,,Canada,2023-11-19
+CUST_00689,James,Davis,james_davis688@example.com,UK,2023-09-11
+CUST_00361,William,Martinez,william_martinez360example.com,France,2022-05-14
+CUST_00084,oliver,Johnson,oliver_johnson83@example.com,"United State",2023-11-28
+CUST_00049,Emma,Miller,emma_miller48@example.com,Australia,2023-04-05
+CUST_00469,Isabella,Miller,isabella_miller468@example.com,Australia,2022-06-28
+CUST_00156,Ava,Miller,ava_miller155@example.com,NULL,2023-06-10
+CUST_00871,Ava,Miller,ava_miller870@example.com,Australia,2022-11-18
+CUST_00662,Isabella,garcia,isabella_garcia661@example.com,"United State",2023-10-25
+CUST_00063,William,Johnson,william_johnson62@example.com,France,2023-08-19
+CUST_00285,Liam,garcia,liam_garcia284@example.com,NULL,2023-03-24
+CUST_00177,Ava,Davis,ava_davis176@example.com,Canada,2023-11-28
+CUST_00161,Benjamin,garcia,benjamin_garcia160@example.com,Australia,2023-07-10
+CUST_00501,James,williams,james_williams500@example.com,Canada,2022-05-05
+CUST_00710,Sophia,Martinez,sophia_martinez709@example.com,Canada,2023-11-13
+CUST_00180,Ava,Johnson,ava_johnson179@example.com,Australia,2023-06-09
+CUST_00025,Noah,Jones,noah_jones24@example.com,NULL,2028-01-01
+CUST_00664,Sophia,Brown,sophia_brown663@example.com,"United State",2023-01-03
+CUST_00885,Liam,Brown,,NULL,2023-01-14
+CUST_00137,Emma,Brown,,Canada,2023-07-09
+CUST_00763,Noah,Jones,noah_jones762@example.com,NULL,2023-07-08
+CUST_00640,olivia,Rodriguez,olivia_rodriguez639@example.com,NULL,2022-10-15
+CUST_00529,Ava,Smith,ava_smith528@example.com,NULL,2022-10-10
+CUST_00347,Sophia,Jones,sophia_jones346@example.com,Germany,2023-11-09
+CUST_00418,William,williams,william_williams417@example.com,Australia,2023-01-03
+CUST_00475,Emma,williams,emma_williams474@example.com,France,2022-11-20
+CUST_00917,Benjamin,garcia,benjamin_garcia916@example.com,France,2022-08-15
+CUST_00386,Isabella,Smith,isabella_smith385@example.com,Germany,2023-07-30
+CUST_00963,Emma,Jones,emma_jones962@example.com,Canada,2023-08-17
+CUST_00075,Mia,garcia,mia_garcia74@example.com,"United State",2023-11-27
+CUST_00602,Emma,Davis,emma_davis601@example.com,NULL,2022-02-15
+CUST_00537,oliver,Martinez,oliver_martinez536@example.com,NULL,2022-06-01
+CUST_00244,Sophia,Brown,,Canada,2023-09-19
+CUST_00077,Ava,Brown,,NULL,2023-02-01
+CUST_00803,Mia,williams,mia_williams802@example.com,Canada,2022-05-17
+CUST_00666,Sophia,Johnson,sophia_johnson665@example.com,Australia,2023-04-06
+CUST_00117,oliver,Martinez,,Australia,2022-08-27
+CUST_00313,oliver,Martinez,oliver_martinez312@example.com,Canada,2022-12-06
+CUST_00436,James,Davis,james_davis435@example.com,Germany,2023-08-20
+CUST_00202,Sophia,williams,sophia_williams201@example.com,NULL,2023-09-21
+CUST_00137,Emma,Brown,,Canada,2023-07-09
+CUST_00309,Isabella,Miller,isabella_miller308@example.com,Australia,2022-01-13
+CUST_00431,olivia,williams,olivia_williams430@example.com,"United State",2023-03-01
+CUST_00661,Liam,Rodriguez,liam_rodriguez660@example.com,Japan,2023-05-09
+CUST_00371,Emma,Brown,emma_brown370@example.com,Germany,2023-11-04
+CUST_00567,Benjamin,Smith,benjamin_smith566@example.com,"United State",2022-09-09
+CUST_00831,Benjamin,Jones,benjamin_jones830@example.com,Canada,2023-01-12
+CUST_00001,Noah,Martinez,,Canada,2022-05-09
+CUST_00825,Mia,Johnson,mia_johnson824@example.com,"United State",2028-01-01
+CUST_00182,Sophia,Miller,sophia_miller181@example.com,Australia,2022-09-06
+CUST_00981,olivia,Martinez,olivia_martinez980@example.com,"United State",2022-06-11
+CUST_00622,olivia,williams,olivia_williams621@example.com,Germany,2022-07-20
+CUST_00924,Sophia,Jones,sophia_jones923@example.com,Australia,2022-02-14
+CUST_00405,Mia,Miller,,France,2022-01-07
+CUST_00613,William,Miller,william_miller612@example.com,Canada,2022-11-29
+CUST_00814,Mia,Martinez,mia_martinez813@example.com,"United State",2023-09-27
+CUST_00769,olivia,garcia,olivia_garcia768@example.com,"United State",2023-10-03
+CUST_00407,Liam,Jones,liam_jones406@example.com,"United State",2023-03-25
+CUST_00779,Isabella,garcia,isabella_garcia778@example.com,Germany,2023-11-19
+CUST_00726,oliver,Martinez,oliver_martinez725@example.com,Australia,2023-06-22
+CUST_00297,William,Brown,william_brown296@example.com,Australia,2023-07-08
+CUST_00372,James,Johnson,james_johnson371@example.com,"United State",2023-10-11
+CUST_00462,Sophia,garcia,,NULL,2022-04-06
+CUST_00029,William,williams,william_williams28@example.com,Japan,2022-04-01
+CUST_00051,James,Jones,james_jones50@example.com,Canada,2022-07-24
+CUST_00378,olivia,williams,olivia_williams377@example.com,Germany,2023-06-01
+CUST_00799,James,Davis,james_davis798@example.com,Canada,2022-04-13
+CUST_00604,Emma,Martinez,emma_martinez603@example.com,UK,2022-07-17
+CUST_00106,oliver,Jones,oliver_jones105@example.com,Japan,2023-09-04
+CUST_00127,Sophia,Johnson,sophia_johnson126@example.com,Canada,2022-01-07
+CUST_00175,Benjamin,Johnson,benjamin_johnson174@example.com,"United State",2022-08-26
+CUST_00805,Sophia,Martinez,sophia_martinez804@example.com,Australia,2023-10-04
+CUST_00888,oliver,Miller,oliver_miller887example.com,NULL,2022-08-09
+CUST_00133,Isabella,garcia,isabella_garcia132@example.com,"United State",2023-06-02
+CUST_00956,James,Brown,james_brown955@example.com,Canada,2023-01-19
+CUST_00356,Mia,garcia,mia_garcia355@example.com,NULL,2022-05-22
+CUST_00460,oliver,Davis,oliver_davis459@example.com,Australia,2023-08-24
+CUST_00683,James,Smith,,Australia,2022-01-30
+CUST_00828,Emma,Jones,,"United State",2023-09-09
+CUST_00199,Isabella,Davis,,Japan,2022-11-23
+CUST_00987,Benjamin,Davis,benjamin_davis986@example.com,NULL,2022-01-19
+CUST_00210,William,Smith,william_smith209@example.com,Canada,2023-06-02
+CUST_00738,olivia,Smith,olivia_smith737@example.com,Australia,2022-06-16
+CUST_00141,olivia,Brown,olivia_brown140@example.com,NULL,2023-07-12
+CUST_00218,Ava,Martinez,ava_martinez217@example.com,Japan,2023-08-10
+CUST_00396,Noah,Brown,noah_brown395@example.com,NULL,2023-09-26
+CUST_00363,Mia,Rodriguez,mia_rodriguez362@example.com,Germany,2023-11-17
+CUST_00302,Sophia,garcia,,Australia,2022-08-20
+CUST_00346,olivia,Brown,olivia_brown345@example.com,NULL,2023-10-29
+CUST_00960,Isabella,Rodriguez,,NULL,2022-04-11
+CUST_00637,Isabella,Davis,isabella_davis636@example.com,Canada,2022-10-29
+CUST_00712,William,Jones,,Canada,2022-06-20
+CUST_00134,Isabella,williams,isabella_williams133@example.com,Australia,2022-07-30
+CUST_00979,Liam,Jones,liam_jones978@example.com,Canada,2022-11-01
+CUST_00872,Emma,Jones,emma_jones871@example.com,NULL,2023-04-02
+CUST_00966,Liam,garcia,liam_garcia965@example.com,Japan,2023-03-26
+CUST_00973,Sophia,Jones,sophia_jones972@example.com,Australia,2022-02-28
+CUST_00011,Mia,Rodriguez,mia_rodriguez10@example.com,Australia,2023-02-28
+CUST_00660,William,Miller,william_miller659@example.com,Australia,2023-02-18
+CUST_00069,Benjamin,Davis,benjamin_davis68@example.com,NULL,2023-05-25
+CUST_00283,Noah,williams,noah_williams282@example.com,Canada,2022-06-01
+CUST_00811,James,Brown,james_brown810@example.com,Australia,2023-04-26
+CUST_00794,Emma,Martinez,emma_martinez793example.com,Japan,2022-02-25
+CUST_00292,James,Miller,james_miller291@example.com,Australia,2022-12-26
+CUST_00932,Liam,Johnson,liam_johnson931@example.com,NULL,2023-02-16
+CUST_00755,William,williams,william_williams754example.com,France,2022-04-18
+CUST_00627,Sophia,Rodriguez,sophia_rodriguez626@example.com,NULL,2023-01-29
+CUST_00095,Sophia,Martinez,sophia_martinez94@example.com,NULL,2023-08-15
+CUST_00976,Benjamin,Davis,benjamin_davis975@example.com,NULL,2023-05-30
+CUST_00130,Isabella,Jones,isabella_jones129@example.com,NULL,2022-08-15
+CUST_00685,Mia,garcia,mia_garcia684@example.com,UK,2023-02-27
+CUST_00844,Ava,Johnson,,"United State",2022-07-12
+CUST_00324,olivia,williams,,NULL,2022-11-09
+CUST_00047,Isabella,Rodriguez,isabella_rodriguez46example.com,Canada,2023-09-25
+CUST_00953,James,Martinez,james_martinez952@example.com,France,2023-01-19
+CUST_00261,olivia,Brown,olivia_brown260@example.com,Canada,2022-12-01
+CUST_00648,Mia,Jones,mia_jones647@example.com,"United State",2023-08-22
+CUST_00980,olivia,Miller,olivia_miller979@example.com,Japan,2023-01-29
+CUST_00988,olivia,Jones,olivia_jones987@example.com,NULL,2022-01-12
+CUST_00696,Mia,Jones,mia_jones695@example.com,Germany,2022-01-25
+CUST_00948,Noah,Jones,noah_jones947@example.com,Canada,2023-06-24
+CUST_00216,Liam,Brown,liam_brown215@example.com,Japan,2023-09-17
+CUST_00877,Emma,garcia,emma_garcia876@example.com,NULL,2023-10-29
+CUST_00228,William,Jones,william_jones227@example.com,France,2023-02-10
+CUST_00815,Sophia,garcia,sophia_garcia814@example.com,"United State",2022-09-24
+CUST_00159,Sophia,Jones,sophia_jones158@example.com,Canada,2022-09-09
+CUST_00909,olivia,Rodriguez,olivia_rodriguez908@example.com,Canada,2022-05-24
+CUST_00806,Liam,Davis,liam_davis805@example.com,NULL,2023-09-25
+CUST_00118,Sophia,garcia,sophia_garcia117@example.com,NULL,2023-07-18
+CUST_00974,Emma,williams,emma_williams973@example.com,Canada,2022-04-24
+CUST_00842,olivia,Davis,olivia_davis841@example.com,France,2023-09-09
+CUST_00635,oliver,Johnson,oliver_johnson634@example.com,France,2022-03-21
+CUST_00517,Liam,Smith,liam_smith516@example.com,"United State",2023-05-13
+CUST_00522,Isabella,Johnson,isabella_johnson521@example.com,Canada,2023-06-23
+CUST_00834,Mia,Brown,mia_brown833@example.com,Australia,2023-10-25
+CUST_00598,Ava,Miller,ava_miller597@example.com,Canada,2022-11-06
+CUST_00196,Isabella,Rodriguez,isabella_rodriguez195@example.com,UK,2023-02-05
+CUST_00254,Ava,garcia,ava_garcia253@example.com,Canada,2023-08-01
+CUST_00985,Sophia,garcia,sophia_garcia984@example.com,NULL,2022-09-14
+CUST_00951,Emma,Martinez,emma_martinez950@example.com,NULL,2022-12-02
+CUST_00411,Ava,Brown,ava_brown410@example.com,Canada,2023-10-24
+CUST_00097,Sophia,Rodriguez,sophia_rodriguez96@example.com,Germany,2022-02-21
+CUST_00441,Mia,Miller,mia_miller440@example.com,"United State",2023-03-16
+CUST_00550,Benjamin,Johnson,benjamin_johnson549@example.com,Germany,2022-07-10
+CUST_00157,James,Johnson,james_johnson156@example.com,Canada,2023-01-15
+CUST_00420,Noah,Jones,noah_jones419@example.com,Japan,2022-01-20
+CUST_00923,James,Smith,james_smith922@example.com,France,2022-11-27
+CUST_00231,Sophia,williams,sophia_williams230@example.com,"United State",2022-04-15
+CUST_00478,Isabella,Jones,isabella_jones477@example.com,Canada,2023-09-13
+CUST_00289,oliver,Brown,oliver_brown288@example.com,Australia,2022-03-21
+CUST_00669,Liam,Smith,liam_smith668@example.com,"United State",2028-01-01
+CUST_00623,William,Jones,william_jones622@example.com,NULL,2023-03-22
+CUST_00015,Mia,Miller,mia_miller14@example.com,NULL,2022-12-27
+CUST_00500,James,Smith,james_smith499@example.com,NULL,2023-02-06
+CUST_00448,Benjamin,Miller,benjamin_miller447@example.com,France,2022-08-24
+CUST_00554,Ava,Brown,ava_brown553@example.com,France,2023-01-27
+CUST_00968,Mia,garcia,mia_garcia967@example.com,France,2023-07-05
+CUST_00179,Sophia,williams,sophia_williams178@example.com,"United State",2022-11-12
+CUST_00391,olivia,Johnson,olivia_johnson390@example.com,Australia,2022-02-11
+CUST_00579,Noah,Rodriguez,noah_rodriguez578@example.com,NULL,2022-06-01
+CUST_00646,Mia,Miller,mia_miller645@example.com,NULL,2023-04-05
+CUST_00198,Liam,Johnson,liam_johnson197@example.com,Canada,2023-04-12
+CUST_01000,Benjamin,garcia,benjamin_garcia999@example.com,"United State",2023-09-16
+CUST_00039,William,Johnson,william_johnson38@example.com,UK,2023-03-26
+CUST_00947,Liam,Smith,liam_smith946@example.com,France,2022-04-24
+CUST_00104,Sophia,Martinez,sophia_martinez103@example.com,Canada,2023-06-06
+CUST_00320,James,Rodriguez,james_rodriguez319@example.com,NULL,2023-01-17
+CUST_00821,James,Smith,james_smith820@example.com,Australia,2023-05-20
+CUST_00974,Emma,williams,emma_williams973@example.com,Canada,2022-04-24
+CUST_00962,Mia,Jones,mia_jones961@example.com,NULL,2023-07-11
+CUST_00503,Benjamin,Johnson,benjamin_johnson502@example.com,Australia,2022-11-16
+CUST_00225,oliver,williams,oliver_williams224@example.com,Canada,2028-01-01
+CUST_00145,Noah,Rodriguez,noah_rodriguez144@example.com,"United State",2022-10-24
+CUST_00665,Mia,Davis,mia_davis664@example.com,NULL,2023-08-31
+CUST_00993,Mia,Johnson,mia_johnson992@example.com,France,2028-01-01
+CUST_00143,Mia,Miller,mia_miller142@example.com,"United State",2022-03-10
+CUST_00575,oliver,williams,oliver_williams574@example.com,Japan,2022-11-12
+CUST_00023,James,Martinez,james_martinez22@example.com,Australia,2023-03-17
+CUST_00865,Emma,Brown,emma_brown864@example.com,NULL,2022-03-29
+CUST_00422,Isabella,Rodriguez,isabella_rodriguez421@example.com,Canada,2023-08-27
+CUST_00637,Isabella,Davis,isabella_davis636@example.com,Canada,2022-10-29
+CUST_00691,Isabella,Davis,isabella_davis690@example.com,Australia,2028-01-01
+CUST_00800,Benjamin,Jones,benjamin_jones799@example.com,Germany,2023-07-15
+CUST_00526,Isabella,garcia,isabella_garcia525@example.com,France,2022-11-28
+CUST_00616,Liam,Jones,liam_jones615@example.com,Canada,2022-09-07
+CUST_00295,Sophia,williams,sophia_williams294@example.com,"United State",2023-09-21
+CUST_00840,James,Martinez,james_martinez839@example.com,NULL,2022-03-22
+CUST_00296,Benjamin,Smith,benjamin_smith295@example.com,Germany,2022-06-10
+CUST_00402,Noah,Rodriguez,noah_rodriguez401@example.com,Japan,2023-10-25
+CUST_00089,oliver,garcia,oliver_garcia88@example.com,"United State",2023-10-19
+CUST_00601,William,williams,,Australia,2022-05-16
+CUST_00132,Isabella,Brown,isabella_brown131@example.com,Germany,2022-03-25
+CUST_00574,Isabella,Martinez,isabella_martinez573@example.com,NULL,2022-06-24
+CUST_00078,Liam,Jones,liam_jones77@example.com,UK,2022-10-20
+CUST_00851,Sophia,Martinez,,France,2023-04-30
+CUST_00005,Emma,williams,emma_williams4@example.com,Canada,2022-03-07
+CUST_00725,Sophia,Davis,sophia_davis724@example.com,Canada,2023-03-01
+CUST_00798,Mia,garcia,mia_garcia797@example.com,Canada,2022-10-08
+CUST_00270,olivia,Johnson,olivia_johnson269@example.com,Canada,2023-04-18
+CUST_00873,Isabella,Martinez,isabella_martinez872@example.com,Japan,2023-10-27
+CUST_00918,James,garcia,james_garcia917example.com,Australia,2023-09-13
+CUST_00513,Isabella,williams,isabella_williams512@example.com,Australia,2022-01-01
+CUST_00588,olivia,Martinez,olivia_martinez587@example.com,NULL,2022-01-25
+CUST_00376,James,Davis,james_davis375@example.com,NULL,2022-01-05
+CUST_00334,olivia,garcia,olivia_garcia333@example.com,UK,2022-11-11
+CUST_00236,Mia,Johnson,mia_johnson235@example.com,Japan,2022-01-28
+CUST_00318,Benjamin,Rodriguez,benjamin_rodriguez317@example.com,Australia,2022-01-30
+CUST_00911,Benjamin,Davis,benjamin_davis910@example.com,Canada,2023-04-16
+CUST_00777,Liam,Martinez,liam_martinez776@example.com,"United State",2023-06-28
+CUST_00785,Noah,Jones,noah_jones784@example.com,Canada,2022-02-07
+CUST_00329,olivia,Rodriguez,olivia_rodriguez328@example.com,Germany,2022-11-24
+CUST_00321,James,williams,james_williams320@example.com,Australia,2022-06-17
+CUST_00013,olivia,Davis,olivia_davis12@example.com,"United State",2023-01-17
+CUST_00898,olivia,Miller,olivia_miller897example.com,Australia,2022-09-21
+CUST_00172,Mia,Jones,mia_jones171@example.com,"United State",2028-01-01

@@ -1,0 +1,11 @@
+campaign_id,campaign_name,cam_channel,start_date,end_date,ad_spend
+CAMP_01,"Spring Promo","Referral Partners",2023-11-04,2023-11-09,10144
+CAMP_02,"Summer Sale","Instagram Ads",2023-02-19,2023-03-09,16247
+CAMP_03,"Back to School","Facebook Ads",2023-11-23,2023-12-15,19231
+CAMP_04,"Black Friday","Google Ads",2023-11-07,2023-07-24,23059
+CAMP_05,"Holiday Special","Instagram Ads",2023-02-12,2023-02-28,48823
+CAMP_06,"New Year Eve","Facebook Ads",2023-02-18,2023-03-04,24700
+CAMP_07,"Clearance Sale","Google Ads",2023-08-11,2023-12-07,16256
+CAMP_08,"Flash Sale","Email Marketing",2023-11-27,2023-12-13,44920
+CAMP_09,"VIP Exclusive","Instagram Ads",2023-10-21,2023-10-31,31294
+CAMP_10,"Cyber Monday","Referral Partners",2023-04-22,2023-05-07,16010
