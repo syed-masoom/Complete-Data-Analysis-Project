@@ -107,6 +107,24 @@ The main objectives of this project were to:
 
 ---
 
+** Key DAX Concepts Demonstrated
+
+The project demonstrates practical use of:
+
+CALCULATE()
+SUM()
+DISTINCTCOUNT()
+DIVIDE()
+FILTER()
+SWITCH()
+IF()
+COALESCE()
+RANKX()
+ALL()
+PREVIOUSMONTH()
+DATEDIFF()
+FORMAT()
+
 # 🔄 End-to-End Data Analytics Workflow
 
 ```text
@@ -149,6 +167,16 @@ Business Intelligence Dashboards
        │
        ▼
 Business Insights & Recommendations
+```
+-- ---------------------------------------------------------
 
 
+Along with:
 
+Time intelligence
+Customer segmentation
+RFM scoring
+KPI calculations
+Conditional logic
+Percentage calculations
+Marketing metrics
