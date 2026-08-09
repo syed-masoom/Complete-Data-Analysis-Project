@@ -1,7 +1,4 @@
 # 📊 D2C Electronics Store — End-to-End Business Analytics Project
-Sales Performance • Customer Analytics • Marketing & Traffic Analytics
-
-Tools: Excel | MySQL | Power BI | DAX
 
 Project Type: D2C Electronics Store Analytics
 Turning Sales, Customer & Marketing Data into Data-Driven Business Decisions
@@ -18,7 +15,7 @@ Technology Stack
 
 Excel → MySQL → Power BI → DAX
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
 The objective was to transform this raw data into a reliable analytical dataset and create an executive-level BI solution that helps stakeholders make data-driven decisions.
 
