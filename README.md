@@ -18,13 +18,11 @@ Technology Stack
 
 Excel → MySQL → Power BI → DAX
 
----
-
 ## 🚀 Project Overview
 
-The objective of this project was to build an end-to-end analytics solution for a D2C electronics retailer by integrating transactional sales, customer, product, traffic, and advertising data.
+The objective was to transform this raw data into a reliable analytical dataset and create an executive-level BI solution that helps stakeholders make data-driven decisions.
 
-The analysis was designed to help management answer three critical questions:
+The analysis was designed to help management answer these critical questions:
 
 - How the business is performing overall
 - Which products and categories are driving revenue
@@ -39,43 +37,34 @@ To answer these questions, I built a complete analytics pipeline using:
 
 **Excel → MySQL → Power BI**
 
----
 
 # 🎯 Business Problem
 
 The Business Challenge
 
-The company had large amounts of sales, customer and marketing data, but management lacked a centralized analytical view of business performance.
-
-The key challenges were:
-
-Sales performance was difficult to monitor consistently.
-Order failures represented a significant share of total orders.
-Customer behavior was not clearly segmented.
-Marketing channels were generating different levels of traffic and revenue.
-Advertising spend needed stronger performance measurement.
-Management needed actionable insights rather than raw transactional data.
-Core Business Question
-
-"Where is the business generating value, where are we losing value, and where should management focus its next investment?"
-
-
-
+The company had large amounts of sales, product, customer, marketing and traffic data but
 
 However, the raw data was not immediately suitable for business analysis due to:
 
-- Inconsistent and unstructured data
+- Inconsistent
 - Missing values
 - Duplicate records
 - Different data formats
 - Inconsistent categorical values
 - Multiple data sources
-- Lack of standardized business metrics
-- No centralized reporting solution
 
-The objective was to transform this raw data into a reliable analytical dataset and create an executive-level BI solution that helps stakeholders make data-driven decisions.
+And Management lacked a centralized analytical view of business performance.
+The key challenges were:
 
----
+- Sales performance was difficult to monitor consistently.
+- Order failures represented a significant share of total orders.
+- Customer behavior was not clearly segmented.
+- Marketing channels were generating different levels of traffic and revenue.
+- Advertising spend needed stronger performance measurement.
+- Management needed actionable insights rather than raw transactional data.
+
+"Where is the business generating value, where are we losing value, and where should management focus its next investment?"
+
 
 # 🎯 Project Objectives
 
