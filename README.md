@@ -53,7 +53,8 @@ However, the raw data was not immediately suitable for business analysis due to:
 - Inconsistent categorical values
 - Multiple data sources
 
-And Management lacked a centralized analytical view of business performance.
+And Management lacked a centralized analytical view of business performance to track where is the business generating value, where are we losing value, and where should management focus its next investment?"
+
 The key challenges were:
 
 - Sales performance was difficult to monitor consistently.
@@ -63,9 +64,7 @@ The key challenges were:
 - Advertising spend needed stronger performance measurement.
 - Management needed actionable insights rather than raw transactional data.
 
-"Where is the business generating value, where are we losing value, and where should management focus its next investment?"
-
-
+-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🎯 Project Objectives
 
 The main objectives of this project were to:
