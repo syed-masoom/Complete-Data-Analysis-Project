@@ -90,25 +90,24 @@ The main objectives of this project were to:
 | **Power Query** | Data transformation and preparation |
 | **GitHub** | Project documentation and portfolio |
 
----
 
-** Key DAX Concepts Demonstrated
+# Key DAX Concepts Demonstrated
 
 The project demonstrates practical use of:
 
-CALCULATE()
-SUM()
-DISTINCTCOUNT()
-DIVIDE()
-FILTER()
-SWITCH()
-IF()
-COALESCE()
-RANKX()
-ALL()
-PREVIOUSMONTH()
-DATEDIFF()
-FORMAT()
+- CALCULATE()
+- SUM()
+- DISTINCTCOUNT()
+- DIVIDE()
+- FILTER()
+- SWITCH()
+- IF()
+- COALESCE()
+- RANKX()
+- ALL()
+- PREVIOUSMONTH()
+- DATEDIFF()
+- FORMAT()
 
 # 🔄 End-to-End Data Analytics Workflow
 
