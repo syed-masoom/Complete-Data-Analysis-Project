@@ -8,11 +8,11 @@ Turning Sales, Customer & Marketing Data into Data-Driven Business Decisions
 
 Analytics Areas
 
-📈 Sales Performance
-👥 Customer Behavior & RFM
-📣 Advertising & Traffic Performance
-💰 Revenue & Profitability
-🎯 Campaign Effectiveness
+- 📈 Sales Performance
+- 👥 Customer Behavior & RFM
+- 📣 Advertising & Traffic Performance
+- 💰 Revenue & Profitability
+- 🎯 Campaign Effectiveness
 
 Technology Stack
 
@@ -64,7 +64,7 @@ The key challenges were:
 - Advertising spend needed stronger performance measurement.
 - Management needed actionable insights rather than raw transactional data.
 
--- ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 🎯 Project Objectives
 
 The main objectives of this project were to:
