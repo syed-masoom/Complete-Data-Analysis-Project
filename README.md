@@ -92,6 +92,50 @@ The main objectives of this project were to:
 
 -- ---------------------------
 
+| SQL Function / Statement | How I Used It in the Project                                                                                               |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **CREATE DATABASE**    | Created the `Estore` database to organize all analytical tables in a centralized MySQL environment.                        |
+| **USE**                | Selected the `Estore` database as the active database for all subsequent SQL operations.                                   |
+| **CREATE TABLE**       | Created structured schemas for Orders, Products, Customers, Campaign, and Traffic datasets with appropriate data types.    |
+| **DROP TABLE**         | Removed existing tables when recreating or restructuring the data schema.                                                  |
+| **TRUNCATE TABLE**     | Removed all records from a table while retaining its structure for data reloading and preparation.                         |
+| **SELECT**             | Used extensively to inspect datasets, validate records, profile data, and verify cleaning results.                         |
+| **SHOW VARIABLES**     | Checked the MySQL `secure_file_priv` configuration while preparing for CSV data loading.                                   |
+| **WITH / CTE**         | Created temporary result sets to identify duplicate Orders and Customers in a structured and readable way.                 |
+| **COUNT()**            | Counted duplicate records, customers, orders, and other data-quality results.                                              |
+| **COUNT(DISTINCT)**    | Measured the number of unique customers, countries, campaigns, and other distinct values.                                  |
+| **GROUP BY**           | Grouped records by IDs or categories to identify duplicates and summarize data.                                            |
+| **HAVING**             | Filtered grouped results to identify duplicate records where the count was greater than one.                               |
+| **COUNT() OVER()**     | Used a window function with `PARTITION BY` as an alternative method for identifying duplicate Order IDs.                   |
+| **PARTITION BY**       | Divided records into groups by Order ID so duplicate occurrences could be identified without collapsing the original rows. |
+| **DELETE**             | Removed identified duplicate Order records from the Orders table.                                                          |
+| **UPDATE**             | Modified existing records to clean and standardize values across the datasets.                                             |
+| **JOIN**               | Compared Orders with Customers to validate customer IDs and investigate referential data consistency.                      |
+| **IN**                 | Used to identify records matching a set of values, including duplicate IDs identified through subqueries.                  |
+| **LENGTH()**           | Checked the length of text fields to identify potential leading or trailing spaces.                                        |
+| **TRIM()**             | Removed unwanted spaces from Order Status, Customer Names, IDs, and other text fields.                                     |
+| **UPPER()**            | Converted selected characters to uppercase when standardizing text values.                                                 |
+| **LOWER()**            | Converted characters to lowercase to create consistent text formatting.                                                    |
+| **LEFT()**             | Extracted the first character of names for proper-case transformation.                                                     |
+| **SUBSTRING()**        | Extracted the remaining characters of names while standardizing customer names.                                            |
+| **CONCAT()**           | Combined multiple text values to create standardized names and corrected Customer IDs.                                     |
+| **LIKE**               | Identified patterns such as blank values, country variations, device types, and inconsistent categorical values.           |
+| **IS NULL**            | Checked for missing values in fields such as Campaign ID and Customer ID.                                                  |
+| **CASE WHEN**          | Applied conditional transformation rules to standardize countries, device types, and other categorical values.             |
+| **DISTINCT**           | Retrieved unique values to profile categorical columns and identify inconsistent data entries.                             |
+| **YEAR()**             | Extracted the year from dates to identify and correct invalid signup-date ranges.                                          |
+| **DATE_ADD()**         | Adjusted incorrect customer signup dates by adding or subtracting years based on validation rules.                         |
+| **INTERVAL**           | Defined the amount of time to add or subtract when correcting date values.                                                 |
+| **START TRANSACTION**  | Started a transaction before making potentially sensitive data modifications.                                              |
+| **COMMIT**             | Permanently saved validated data changes after reviewing the transformation.                                               |
+| **ROLLBACK**           | Reverted changes made within a transaction when the modifications needed to be cancelled.                                  |
+| **LPAD()**             | Standardized the formatting of generated Customer IDs by padding numbers with leading zeros.                               |
+| **FLOOR()**            | Converted randomly generated decimal values into whole numbers when creating replacement Customer IDs.                     |
+| **RAND()**             | Generated random numbers for replacing invalid Customer IDs during data correction.                                        |
+
+
+-- ----------------------------
+
 🗄️ MySQL Data Validation, Cleaning & Transformation
 
 MySQL was used as the core data preparation layer between the raw Excel/CSV data and Power BI. The SQL script focuses on data validation, quality checks, cleaning, standardization, and transformation to create a reliable dataset for downstream business analysis and Power BI reporting.
