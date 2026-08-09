@@ -1,18 +1,30 @@
-# 📊 D2C Electronics Sales & Marketing Analytics
+# 📊 D2C Electronics Store — End-to-End Business Analytics Project
+Sales Performance • Customer Analytics • Marketing & Traffic Analytics
 
-> **End-to-End Data Analytics Project using Excel, MySQL & Power BI**
+Tools: Excel | MySQL | Power BI | DAX
 
-An end-to-end business intelligence project developed to analyze the sales performance, customer behavior, advertising campaigns, and traffic acquisition of a **D2C Electronics Retail Brand**.
+Project Type: D2C Electronics Store Analytics
+Turning Sales, Customer & Marketing Data into Data-Driven Business Decisions
 
-The project demonstrates the complete data analytics workflow — from raw data preparation and SQL-based transformation to interactive Power BI dashboards and business-driven recommendations.
+Analytics Areas
+
+📈 Sales Performance
+👥 Customer Behavior & RFM
+📣 Advertising & Traffic Performance
+💰 Revenue & Profitability
+🎯 Campaign Effectiveness
+
+Technology Stack
+
+Excel → MySQL → Power BI → DAX
 
 ---
 
 ## 🚀 Project Overview
 
-The business operates as a Direct-to-Consumer (D2C) electronics brand and generates sales through multiple digital marketing channels.
+The objective of this project was to build an end-to-end analytics solution for a D2C electronics retailer by integrating transactional sales, customer, product, traffic, and advertising data.
 
-The management team wanted to understand:
+The analysis was designed to help management answer three critical questions:
 
 - How the business is performing overall
 - Which products and categories are driving revenue
@@ -31,7 +43,24 @@ To answer these questions, I built a complete analytics pipeline using:
 
 # 🎯 Business Problem
 
-The company had sales, customer, product, traffic, and campaign data stored across multiple datasets.
+The Business Challenge
+
+The company had large amounts of sales, customer and marketing data, but management lacked a centralized analytical view of business performance.
+
+The key challenges were:
+
+Sales performance was difficult to monitor consistently.
+Order failures represented a significant share of total orders.
+Customer behavior was not clearly segmented.
+Marketing channels were generating different levels of traffic and revenue.
+Advertising spend needed stronger performance measurement.
+Management needed actionable insights rather than raw transactional data.
+Core Business Question
+
+"Where is the business generating value, where are we losing value, and where should management focus its next investment?"
+
+
+
 
 However, the raw data was not immediately suitable for business analysis due to:
 
@@ -120,4 +149,6 @@ Business Intelligence Dashboards
        │
        ▼
 Business Insights & Recommendations
+
+
 
