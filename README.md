@@ -95,31 +95,12 @@ The main objectives of this project were to:
 
 The project demonstrates practical use of:
 
-- CALCULATE()
-- SUM()
-- DISTINCTCOUNT()
-- DIVIDE()
-- FILTER()
-- SWITCH()
-- IF()
-- COALESCE()
-- RANKX()
-- ALL()
-- PREVIOUSMONTH()
-- DATEDIFF()
-- FORMAT()
-
-
-
-
-
-
 | DAX Function          | What I Did With It                                                                                                                                    |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **CALCULATE()**     | Used to calculate business metrics under specific filter conditions, such as completed orders, previous-month revenue, and paid/organic performance.  |
 | **SUM()**           | Used to aggregate numerical fields such as revenue, profit, COGS, quantity sold, and advertising spend.                                               |
 | **DISTINCTCOUNT()** | Used to count unique entities such as customers, orders, and other distinct business IDs without double-counting.                                     |
-| **`DIVIDE()`**        | Used to safely calculate ratios and percentages such as order success rate, conversion rate, repeat purchase rate, and ROAS.                          |
+| **DIVIDE()**        | Used to safely calculate ratios and percentages such as order success rate, conversion rate, repeat purchase rate, and ROAS.                          |
 | **FILTER()**        | Used to apply custom filtering logic when creating metrics and analytical calculations based on specific business conditions.                         |
 | **SWITCH()**        | Used to create business-rule-based customer segmentation, including RFM customer segments such as Champions, Loyal Customers, and At Risk.            |
 | **IF()**            | Used to apply conditional business logic, such as classifying customers, handling positive/negative growth, and assigning labels based on conditions. |
