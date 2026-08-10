@@ -164,51 +164,126 @@ The project demonstrates practical use of:
 
 # 🔄 End-to-End Data Analytics Workflow
 
-```text
-Raw Business Data
-       │
-       ▼
-Microsoft Excel
-       │
-       ├── Data Profiling
-       ├── Data Validation
-       ├── Missing Value Checks
-       ├── Duplicate Checks
-       └── Initial Preparation
-       │
-       ▼
-MySQL
-       │
-       ├── Data Cleaning
-       ├── Data Transformation
-       ├── Data Validation
-       ├── Joins
-       ├── Aggregations
-       └── Business Analysis
-       │
-       ▼
-Power BI
-       │
-       ├── Data Modeling
-       ├── Relationships
-       ├── DAX Measures
-       ├── KPI Development
-       └── Interactive Visualizations
-       │
-       ▼
-Business Intelligence Dashboards
-       │
-       ├── Sales Overview
-       ├── Customer Analysis
-       └── Ads & Traffic Analysis
-       │
-       ▼
-Business Insights & Recommendations
-```
+                RAW BUSINESS DATA
+                       │
+                       ▼
+                 MICROSOFT EXCEL
+                       │
+              Data Preparation
+              Data Validation
+                       │
+                       ▼
+                    MySQL
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+     Cleaning      Transformation   Analysis
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                       ▼
+                    POWER BI
+                       │
+             Data Modeling + DAX
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+      SALES         CUSTOMER       MARKETING
+     ANALYSIS       ANALYSIS       ANALYSIS
+        │              │              │
+        └──────────────┼──────────────┘
+                       ▼
+              BUSINESS INSIGHTS
+                       │
+                       ▼
+             DATA-DRIVEN DECISIONS
 -- ---------------------------------------------------------
 
 # Sales Overview Dashboard
+
 # Business Report
+
+## Overall Business Performance
+
+| KPI                     |      Result |
+| ----------------------- | ----------: |
+| **Total Orders**        |   **2.68K** |
+| **Revenue**             | **$10.06M** |
+| **Profit**              |  **$3.36M** |
+| **COGS**                |  **$6.70M** |
+| **Order Success Rate**  |  **33.58%** |
+| **Successful Orders**   |     **901** |
+| **Unsuccessful Orders** |  **66.42%** |
+| **Quantity Sold**       |      **8K** |
+
+The company generated approximately $10.06M in revenue and $3.36M in profit.
+
+However, the most important concern is the 33.58% order success rate.
+
+That means approximately two-thirds of orders are currently classified as unsuccessful according to the dashboard's status logic.
+
+This is potentially the largest operational opportunity in the business.
+
+## order-status visualization shows approximately:
+33.1% Completed
+33.41% Cancelled
+16.45% Refunded
+~17% Processing
+
+This creates an important business question:
+
+Why are so many orders failing to reach successful completion?
+
+Potential Causes to Investigate
+
+## Management should investigate:
+Payment failures
+Customer cancellations
+Inventory availability
+Delivery delays
+Pricing issues
+Customer dissatisfaction
+Product availability
+Fraud screening
+Refund-related issues
+Business Opportunity
+
+Even a modest improvement in successful order completion could have a meaningful impact on:
+Revenue, Profit, Customer satisfaction and Marketing ROI
+
+## Top 10 Bestseller Products
+
+The dashboard identifies the strongest-selling products across the electronics catalog.
+
+The leading products include:
+
+- Nikon Z8
+- Sony Bravia XR
+- Samsung S90C OLED
+- Apple MacBook Pro
+- Canon EOS R6
+- Razer Blade
+- Sony Alpha
+- Sony Xperia
+- Samsung Galaxy
+- LG InstaView
+- Business Questions
+
+## Management should use this analysis to determine:
+
+1. Which products deserve higher inventory allocation?
+
+2. Which products drive the largest share of sales?
+
+3. Are high-volume products also high-margin products?
+
+4. Are there products with strong sales but weak profitability?
+
+## Recommendation
+
+Do not evaluate product success using sales volume alone.
+Combine:
+Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable products.
 
 # Customer Analysis
 # Business Report
