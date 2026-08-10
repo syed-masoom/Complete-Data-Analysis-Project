@@ -95,7 +95,7 @@ The main objectives of this project were to:
 
 MySQL was used as the primary data preparation layer between the raw datasets and Power BI. The SQL workflow focused on validating data quality, identifying duplicates and inconsistencies, standardizing categorical fields, handling missing values, correcting date ranges, and transforming the datasets into a reliable structure for business analysis and Power BI reporting.
 
-## 🔧 SQL Statements & Functions Used
+# 🔧 SQL Statements & Functions Used
 
 | SQL Function / Statement | How I Used It in the Project                                                                                               |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
