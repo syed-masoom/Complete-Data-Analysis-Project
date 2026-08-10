@@ -90,7 +90,12 @@ The main objectives of this project were to:
 | **Power Query** | Data transformation and preparation |
 | **GitHub** | Project documentation and portfolio |
 
--- ---------------------------
+
+# 🗄️ MySQL Data Validation, Cleaning & Transformation
+
+MySQL was used as the primary data preparation layer between the raw datasets and Power BI. The SQL workflow focused on validating data quality, identifying duplicates and inconsistencies, standardizing categorical fields, handling missing values, correcting date ranges, and transforming the datasets into a reliable structure for business analysis and Power BI reporting.
+
+## 🔧 SQL Statements & Functions Used
 
 | SQL Function / Statement | How I Used It in the Project                                                                                               |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
@@ -133,81 +138,6 @@ The main objectives of this project were to:
 | **FLOOR()**            | Converted randomly generated decimal values into whole numbers when creating replacement Customer IDs.                     |
 | **RAND()**             | Generated random numbers for replacing invalid Customer IDs during data correction.                                        |
 
-
--- ----------------------------
-
-🗄️ MySQL Data Validation, Cleaning & Transformation
-
-MySQL was used as the core data preparation layer between the raw Excel/CSV data and Power BI. The SQL script focuses on data validation, quality checks, cleaning, standardization, and transformation to create a reliable dataset for downstream business analysis and Power BI reporting.
-
-🔍 Database & Table Setup
-
-The script first creates the Estore database and defines structured tables for:
-
-Orders — Transaction and order-level data
-Products — Product, pricing, cost, stock and rating information
-Customers — Customer profile and signup information
-Campaign — Marketing campaign and advertising spend data
-Traffic — Website sessions, devices, campaigns and bounce information
-🧹 Data Validation & Quality Checks
-
-The script performs several data-quality checks before analysis, including:
-
-Identifying duplicate Order IDs
-Identifying duplicate Customer IDs
-Checking duplicate Product and Traffic records
-Checking for unwanted leading/trailing spaces
-Validating customer IDs between Orders and Customers
-Checking distinct values in categorical fields
-Identifying blank values in important columns
-Validating date ranges and data consistency
-🔧 Data Cleaning & Transformation
-
-The data was standardized using SQL operations such as:
-
-TRIM() to remove unnecessary spaces
-UPPER() and LOWER() to standardize text
-CONCAT() to create standardized names
-CASE statements to normalize categories and country names
-Converting blank values to NULL
-Standardizing order statuses
-Standardizing device types such as Desktop, Mobile and Tablet
-Standardizing country names
-Adjusting invalid/inconsistent signup dates
-Correcting invalid customer identifiers
-Removing duplicate records where required
-⚙️ SQL Techniques Demonstrated
-
-The script demonstrates practical MySQL techniques including:
-
-CREATE DATABASE
-CREATE TABLE
-DROP TABLE
-TRUNCATE TABLE
-INSERT / LOAD DATA
-SELECT
-WHERE
-GROUP BY
-HAVING
-JOIN
-CTE
-Window Functions
-CASE
-UPDATE
-DELETE
-TRIM
-UPPER / LOWER
-CONCAT
-SUBSTRING
-LEFT
-LENGTH
-DATE_ADD
-YEAR
-RAND
-LPAD
-TRANSACTION / COMMIT / ROLLBACK
-
--- ---------------------------------------
 
 
 # Key DAX Concepts Demonstrated
