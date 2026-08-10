@@ -207,13 +207,11 @@ Business Insights & Recommendations
 ```
 -- ---------------------------------------------------------
 
+# Sales Overview Dashboard
+# Business Report
 
-Along with:
+# Customer Analysis
+# Business Report
 
-Time intelligence
-Customer segmentation
-RFM scoring
-KPI calculations
-Conditional logic
-Percentage calculations
-Marketing metrics
+# Ads Campaign & Traffic Analysis
+# Business Report
