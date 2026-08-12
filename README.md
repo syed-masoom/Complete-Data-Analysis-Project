@@ -293,12 +293,16 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 
 | KPI                     |      Result |
 | ----------------------- | ----------: |
-| **Total Customers**                |   **927**   |
-| **Net Revenue**                    | **$3.36M**  |
+| **Total Customers / Orders**                |   **927 / 2.68K**   |
+| **Net Revenue / Profit**                    | **$3.36M / $1.12M**  |
 | **Total Order Value**              |  **$10.06M**|
 | **Avg Order Value**                |  **$3.75** |
-| **Customer Repeat Rate**           |  **78.64%** |
-| **New Customer Rate**              |     **21.36%** |
+| **Customer Repeat Rate / Customers**           |  **78.64% / 729** |
+| **New Customer Rate**              |     **21.36% / 198** |
+
+- 2.68K Orders placed by the 927 Customers.
+- Business recieved the orders of order value of $10.06 Million but the net revenue is only $3.36 Million and Profit is $1.12 Million because almost 33.58% orders was successfully delivered
+- We Have 78.64% Customers Repeat still we are losing the our most of the revenue and profit of almost 65%-70% in failed orders.
 
 
 
