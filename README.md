@@ -285,8 +285,22 @@ Do not evaluate product success using sales volume alone.
 Combine:
 Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable products.
 
-# Customer Analysis
+# Customer Analysis Dashboard
+
 # Business Report
+
+## Overall Customer KPIs Data
+
+| KPI                     |      Result |
+| ----------------------- | ----------: |
+| **Total Customers**                |   **927**   |
+| **Net Revenue**                    | **$3.36M**  |
+| **Total Order Value**              |  **$10.06M**|
+| **Avg Order Value**                |  **$3.75** |
+| **Customer Repeat Rate**           |  **78.64%** |
+| **New Customer Rate**              |     **21.36%** |
+
+
 
 # Ads Campaign & Traffic Analysis
 # Business Report
