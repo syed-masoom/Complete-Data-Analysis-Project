@@ -307,4 +307,22 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 
 
 # Ads Campaign & Traffic Analysis
+
 # Business Report
+## Overall Ads Camapign and Traffic KPIs
+
+| KPI                     |      Result |
+| ----------------------- | ----------: |
+| **Total Traffic**                        |  **5.00 K / 2.68K** |
+| **Organic Traffic / Orders**             | **2.54K / 1.38K** |
+| **Paid Traffic / Orders**                |  **2.46K / 1.30K** |
+| **Conversion Rate**                      |  **53.66% / 2.68K** |
+| **Bounce Rate / Bounce**                 |  **48.78% / 2.49K** |
+| **Ad Spend / ROAS**                      |  **$250.68K / 19.62x** |
+| **Revenue from Ads / Net Revenue**       | **$4.92M / $1.72M** |
+| **Total Net Revenue**                    |  **$3.33M** |
+| **Total Order Value / Orders**           |  **$10.06M / 2.68K** |
+| **Net Profit**                           | **$1.12M** |
+
+
+
