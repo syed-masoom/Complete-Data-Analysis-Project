@@ -342,3 +342,6 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 | **Google Ads**             |  **$39,315** | **15.68%** |
 | **Referral**               |  **$26,154** | **10.43%** |
 
+- We Spent maximum on Instagram Ads $96,364 almost 38.44% of total amount of all Ad spend
+- On Email Marketing $44,920 almost 17.92%
+- $43,931 on Facebook Ad almost 17.52%
