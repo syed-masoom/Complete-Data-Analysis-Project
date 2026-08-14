@@ -343,5 +343,24 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 | **Referral**               |  **$26,154** | **10.43%** |
 
 - We Spent maximum on Instagram Ads $96,364 almost 38.44% of total amount of all Ad spend
-- On Email Marketing $44,920 almost 17.92%
-- $43,931 on Facebook Ad almost 17.52%
+- On Email Marketing $44,920 almost 17.92% of total
+- $43,931 on Facebook Ad almost 17.52% of total
+- $39,315 on Google Ads 15.68% of total
+- $26.154 on Referral 10.43% of total
+
+## Ad Spent by Campaign type
+We run Ads campaign based on the multiple discount campaign type on that for that discount we launch Ads campaign for that specific discount campaign like
+- Holiday Special
+- Flash Sale
+- VIP Exclusive
+- New Year EVE
+- Black Friday
+- Back to School
+- Clearance Sale
+- Summer Sale
+
+## Traffic Vs Order Vs Bounce by Channel
+
+## Traffic Vs Order by Device
+
+## Conclusion 
