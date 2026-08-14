@@ -361,6 +361,26 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 
 ## Traffic Vs Order Vs Bounce by Channel
 
+| Channel                 |    Traffic %   | Conversion %     | Bounce % |
+| ----------------------- | ---------- | --------------: |
+| **Organic**             |  **$96,364** | **38.44%** |
+| **Email Marketing**        | **$44,920**  | **17.92%** |
+| **Facebook Ads**           |  **$43,931** | **17.52%** |
+| **Google Ads**             |  **$39,315** | **15.68%** |
+| **Referral**               |  **$26,154** | **10.43%** |
+| **Instagram Ads**          |  **$96,364** | **38.44%** |
+| **Email Marketing**        | **$44,920**  | **17.92%** |
+| **Facebook Ads**           |  **$43,931** | **17.52%** |
+| **Google Ads**             |  **$39,315** | **15.68%** |
+| **Referral**               |  **$26,154** | **10.43%** |
+
+
 ## Traffic Vs Order by Device
 
-## Conclusion 
+## Conclusion
+
+- Overall Ads and Traffic is look perfect but Ads can be make more profitable and gigh revenue generator
+- The biggest concern is the low as 50% Conversion rate this can be more better and this can also improve our customers and also helps us to retain customer for long term and increase repeat purchase and the overall business can be improve by which 
+
+
+
