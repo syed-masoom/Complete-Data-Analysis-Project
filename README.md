@@ -324,5 +324,21 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 | **Total Order Value / Orders**           |  **$10.06M / 2.68K** |
 | **Net Profit**                           | **$1.12M** |
 
+- The Overall Traffic comes from Organic and paid is 5.00K But the conversion is around 53.66% with 2.68K Orders
+- Organic Traffic is 2.54K and the orders we recieved 1.38K Organically and Paid Traffic is 2.46K and the orders we recieved 1.30K. Almost 50% Traffic comes organically and 50% from paid Ads campaign
+- Total $250.68K we spent on Ads campaign with 19.62x ROAS we get the overall very ROAS but this ROAS is shows overall ROAS when we look on the filter level for only the completed orders this will around 6x ROAS. Because the most of orders almost 67% of our orders was unsuccessful and only 33% of orders is successfully completed this very big concern
+- $4.92 Million Revenue comes from Ads Campaign shows in the dashboard but the Net Revenue is  only $1.72 Million when we look this on the order status filter this will show complete picture of all the orders
+- $3.33 Million is Net Revenue this is the exact revenue we generated from the business this year
+- $10.06 Million is the total order value the customers ordered but with the 33% order success rate we generated only $3.33 Million Net Revenue from the this total order value
+- $1.12 Million is the Net profit we generated this year
 
+## Ads Spent on Platform
+
+| Channel                 |    Amount  | Percentage      |
+| ----------------------- | ---------- | --------------: |
+| **Instagram Ads**          |  **$96,364** | **38.44%** |
+| **Email Marketing**        | **$44,920**  | **17.92%** |
+| **Facebook Ads**           |  **$43,931** | **17.52%** |
+| **Google Ads**             |  **$39,315** | **15.68%** |
+| **Referral**               |  **$26,154** | **10.43%** |
 
