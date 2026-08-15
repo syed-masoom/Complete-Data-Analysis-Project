@@ -342,7 +342,7 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 | **Google Ads**             |  **$39,315** | **15.68%** |
 | **Referral**               |  **$26,154** | **10.43%** |
 
-- We Spent maximum on Instagram Ads $96,364 almost 38.44% of total amount of all Ad spend
+- We Spent maximum on Instagram Ads $96,364 almost 38.44% of total amount of total Ad spend
 - On Email Marketing $44,920 almost 17.92% of total
 - $43,931 on Facebook Ad almost 17.52% of total
 - $39,315 on Google Ads 15.68% of total
@@ -370,6 +370,13 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 | **Referral**           |  **9.44%**          |     **10.55%**        |    **10.64%**      |     **3.73%**      |
 | **Email Marketing**    |  **5.02%**          |     **5.14%**         |    **5.36%**       |     **1.98%**      |
 
+- 50% of traffic comes from organically without spending any amount on Ads campaign and almost 50% of traffic come from all the Ads campaign which include Instagram, Facebook, Google, Email Marketing and Referral
+
+- If we don't spend on the Ads Campaign still we can do well, The biggest concern is that 33% order success rate  we are recieving decent amount orders but almost around 60% - 70% is our order unsuccess rate
+
+- If we do further deep dive analysis to diagnose why our orders has 33% success rate and 60 - 70% unsuccess rate and works on the improvement of order success rate this can become massive win for business
+
+- Instead of running discount Ads campaign we have to run our campaign based on the customer target who have placed the but cancelled, refunded we have target those customer by giving extra discount with best shopping experience can more valueable than spending on discount Ads campaign
 
 ## Traffic Vs Order by Device
 
