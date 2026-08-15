@@ -361,14 +361,14 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 
 ## Traffic Vs Order Vs Bounce by Channel
 
-| Channel                |  Traffic % of Total | Conversion % of Total | Revenue % of Total |
-| ---------------------- | ------------------- | --------------------- | -----------------: |
-| **Organic**            |  **50.88%**         |     **51.40%**        |    **51.13%**      |
-| **Instagram Ads**      |  **14.68%**         |     **13.53%**        |    **13.98%**      |
-| **Google Ads**         |  **10.08%**         |     **9.28%**         |    **10.29%**      |
-| **Facebook Ads**       |  **9.90%**          |     **10.10%**        |    **8.59%**       |
-| **Referral**           |  **9.44%**          |     **10.55%**        |    **10.64%**      |
-| **Email Marketing**    |  **5.02%**          |     **5.14%**         |    **5.36%**       |
+| Channel                |  Traffic % of Total | Conversion % of Total | Revenue % of Total | Order Success Rate |
+| ---------------------- | ------------------- | --------------------- | ------------------ | -----------------: |
+| **Organic**            |  **50.88%**         |     **51.40%**        |    **51.13%**      |     **16.92%**     |
+| **Instagram Ads**      |  **14.68%**         |     **13.53%**        |    **13.98%**      |     **4.29%**      |
+| **Google Ads**         |  **10.08%**         |     **9.28%**         |    **10.29%**      |     **3.35%**      |
+| **Facebook Ads**       |  **9.90%**          |     **10.10%**        |    **8.59%**       |     **3.32%**      |
+| **Referral**           |  **9.44%**          |     **10.55%**        |    **10.64%**      |     **3.73%**      |
+| **Email Marketing**    |  **5.02%**          |     **5.14%**         |    **5.36%**       |     **1.98%**      |
 
 
 ## Traffic Vs Order by Device
