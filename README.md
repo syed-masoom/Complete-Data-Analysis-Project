@@ -380,6 +380,13 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 
 ## Traffic Vs Order by Device
 
+| Channel          |  Traffic % of Total | Conversion % of Total |  Order Success Rate |
+| ---------------- | ------------------- | --------------------- |  -----------------: |
+| **Tablet**       |  **50.88%**         |     **51.40%**        |     **16.92%**      |
+| **Desktop**      |  **14.68%**         |     **13.53%**        |     **4.29%**       |
+| **Mobile**       |  **10.08%**         |     **9.28%**         |     **10.29%**      |
+
+
 ## Conclusion
 
 - Overall Ads and Traffic is look perfect but Ads can be make more profitable and gigh revenue generator
