@@ -1,5 +1,18 @@
 # 📊 D2C Electronics Store — End-to-End Business Analytics Project
 
+## Content Sequence
+- Project Overview
+- Business Problem
+- Project Objectives
+- Tools & Tevhnology Used
+- Practical Use of SQL Statement, Clause & Functions
+- Practical Use of Power Bi Dax
+- End to End Analytics Workflow
+- Sales Overview Dashboard, Report & Conclusion
+- Customers Analysis Dashboard, Report & Conclusion
+- Ads Campaign & Traffic Dashboard, Report & Conclusion
+- Summary of Analysis, Action Plan and Key Takeaway
+
 Project Type: D2C Electronics Store Analytics
 Turning Sales, Customer & Marketing Data into Data-Driven Business Decisions
 
