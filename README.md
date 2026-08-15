@@ -13,7 +13,7 @@
 - Ads Campaign & Traffic Dashboard, Report & Conclusion
 - Summary of Analysis, Action Plan and Key Takeaway
 
-Project Type: D2C Electronics Store Analytics
+## Project Type: D2C Electronics Store Analytics
 Turning Sales, Customer & Marketing Data into Data-Driven Business Decisions
 
 Analytics Areas
@@ -25,7 +25,6 @@ Analytics Areas
 - 🎯 Campaign Effectiveness
 
 Technology Stack
-
 Excel → MySQL → Power BI → DAX
 
 # 🚀 Project Overview
