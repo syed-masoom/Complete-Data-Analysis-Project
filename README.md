@@ -310,6 +310,8 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 
 # Ads Campaign & Traffic Analysis
 
+![Ads Campaign & Traffic](https://github.com/syed-masoom/Complete-Data-Analysis-Project/blob/main/2.%20Ads%20Campaign%20&%20Traffic%20Dashboard.png?raw=true)
+
 # Business Report
 ## Overall Ads Camapign and Traffic KPIs
 
