@@ -233,13 +233,14 @@ The project demonstrates practical use of:
 | **Unsuccessful Orders**         |  **49.76%** |
 | **Unsuccess Order**             |   **1.38K** |
 
-The company generated approximately $10.06M in revenue and $3.36M in profit.
+- The company generated 2.68K orders which include organically and paid wit average order value $3.75K, $3.33 Million Net Revenue and $1.12 Million in Net Profit with only 33.58% order success rate
 
-However, the most important concern is the 33.58% order success rate.
+- But the Company can generate more revenue and more profit but the most of revenue and profit lost due high cancelation  and refund rate almost 50% of failed order in which $1.66 Million Refunded with almost 16% of orders and $3.36 Million order value cancelled with 34% of orders
 
-That means approximately two-thirds of orders are currently classified as unsuccessful according to the dashboard's status logic.
+- The biggest concern is in that business high failed order rate almost 50%. This is potentially the largest operational opportunity in the business.
 
-This is potentially the largest operational opportunity in the business.
+- Key Takeaways :
+
 
 ## order-status visualization shows approximately:
 33.1% Completed
