@@ -225,13 +225,13 @@ The project demonstrates practical use of:
 | **Average Order Value**         |  **3.75K**  |
 | **Net Revenue**                 |  **$3.33M** |
 | **Net Profit**                  |  **$1.12M** |
-| **Processing Order Revenue**    |  **$6.70M** |
-| **Refunded Value**              |  **$3.36M** |
-| **Cancelled Order Value**       |      **8K** |
+| **Processing Order Revenue**    |  **$1.71M** |
+| **Refunded Value**              |  **$1.66M** |
+| **Cancelled Order Value**       |  **$3.36M** |
 | **Order Success Rate**          |  **33.58%** |
 | **Successful Orders**           |     **901** |
-| **Unsuccessful Orders**         |  **66.42%** |
-| **Quantity Sold**               |      **8K** |
+| **Unsuccessful Orders**         |  **49.76%** |
+| **Unsuccess Order**             |   **1.38K** |
 
 The company generated approximately $10.06M in revenue and $3.36M in profit.
 
