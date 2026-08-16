@@ -341,12 +341,20 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 | **Net Profit**                           | **$1.12M** |
 
 - The Overall Traffic comes from Organic and paid is 5.00K But the conversion is around 53.66% with 2.68K Orders
+
 - Organic Traffic is 2.54K and the orders we recieved 1.38K Organically and Paid Traffic is 2.46K and the orders we recieved 1.30K. Almost 50% Traffic comes organically and 50% from paid Ads campaign
+
 - Total $250.68K we spent on Ads campaign with 19.62x ROAS we get the overall very ROAS but this ROAS is shows overall ROAS when we look on the filter level for only the completed orders this will around 6x ROAS. Because the most of orders almost 67% of our orders was unsuccessful and only 33% of orders is successfully completed this very big concern
+
 - $4.92 Million Revenue comes from Ads Campaign shows in the dashboard but the Net Revenue is  only $1.72 Million when we look this on the order status filter this will show complete picture of all the orders
+
 - $3.33 Million is Net Revenue this is the exact revenue we generated from the business this year
+
 - $10.06 Million is the total order value the customers ordered but with the 33% order success rate we generated only $3.33 Million Net Revenue from the this total order value
+
 - $1.12 Million is the Net profit we generated this year
+
+- Takeaway: The business shouldn't rely only on paid acquisition; organic acquisition is already contributing strongly. Organic is therefore slightly more efficient in converting traffic into orders.
 
 ## Ads Spent on Platform
 
@@ -363,6 +371,8 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 - $43,931 on Facebook Ad almost 17.52% of total
 - $39,315 on Google Ads 15.68% of total
 - $26.154 on Referral 10.43% of total
+
+- Takeaway: Instagram is the biggest paid channel, so it deserves close monitoring to make sure its high spend is also producing proportionally strong revenue and conversions.
 
 ## Ad Spent by Campaign type
 We run Ads campaign based on the multiple discount campaign type on that for that discount we launch Ads campaign for that specific discount campaign like
@@ -394,6 +404,8 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 
 - Instead of running discount Ads campaign we have to run our campaign based on the customer target who have placed the but cancelled, refunded we have target those customer by giving extra discount with best shopping experience can more valueable than spending on discount Ads campaign
 
+- Takeaway: There is an opportunity to improve landing pages, product pages and the checkout journey to convert more of the existing traffic.
+
 ## Traffic Vs Order by Device
 
 | Channel          |  Traffic % of Total | Conversion % of Total |  Order Success Rate |
@@ -402,8 +414,13 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 | **Desktop**      |  **14.68%**         |     **13.53%**        |     **4.29%**       |
 | **Mobile**       |  **10.08%**         |     **9.28%**         |     **10.29%**      |
 
+- Takeaway: The mobile shopping experience should be a priority because mobile is already generating strong order performance.
 
 ## Conclusion
+
+🎯 Analyst Conclusion
+
+The business has a healthy acquisition mix and strong advertising returns, with organic traffic performing slightly better than paid traffic in order generation. However, marketing spend is concentrated heavily on Instagram and promotional campaigns, so these investments should be evaluated against revenue and profitability rather than spend alone. The ~50% bounce rate also indicates room to improve the website experience and conversion journey. Overall, the strongest growth opportunity is to improve traffic quality and conversion efficiency while reallocating marketing budget toward campaigns and channels that generate the highest profitable customer value.
 
 - Overall Ads and Traffic is look perfect but Ads can be make more profitable and gigh revenue generator
 - The biggest concern is the low as 50% Conversion rate this can be more better and this can also improve our customers and also helps us to retain customer for long term and increase repeat purchase and the overall business can be improve by which 
