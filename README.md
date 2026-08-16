@@ -219,16 +219,19 @@ The project demonstrates practical use of:
 
 ## Overall Business Performance
 
-| KPI                     |      Result |
-| ----------------------- | ----------: |
-| **Total Orders**        |   **2.68K** |
-| **Revenue**             | **$10.06M** |
-| **Profit**              |  **$3.36M** |
-| **COGS**                |  **$6.70M** |
-| **Order Success Rate**  |  **33.58%** |
-| **Successful Orders**   |     **901** |
-| **Unsuccessful Orders** |  **66.42%** |
-| **Quantity Sold**       |      **8K** |
+| KPI                             |  Result     |
+| ------------------------------- | ----------: |
+| **Total Orders**                |  **2.68K**  |
+| **Average Order Value**         |  **3.75K**  |
+| **Net Revenue**                 |  **$3.33M** |
+| **Net Profit**                  |  **$1.12M** |
+| **Processing Order Revenue**    |  **$6.70M** |
+| **Refunded Value**              |  **$3.36M** |
+| **Cancelled Order Value**       |      **8K** |
+| **Order Success Rate**          |  **33.58%** |
+| **Successful Orders**           |     **901** |
+| **Unsuccessful Orders**         |  **66.42%** |
+| **Quantity Sold**               |      **8K** |
 
 The company generated approximately $10.06M in revenue and $3.36M in profit.
 
