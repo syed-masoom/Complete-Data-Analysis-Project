@@ -347,6 +347,21 @@ Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valu
 | 🔴 **Lost Customers**  | These customers have low recent activity and limited historical purchasing behavior, making them the least engaged segment.                                  | Use low-cost reactivation campaigns and avoid spending heavily unless they show renewed engagement.                              |
 
 
+## Order Distribution by Country
+
+| Country       | Cancelled | Completed | Processing | Refunded |
+| ------------- | --------: | --------: | ---------: | -------: |
+| Other         |    19.91% |    19.03% |     24.61% |   20.00% |
+| Australia     |    16.06% |    16.33% |     14.77% |   16.67% |
+| Canada        |    15.32% |    16.54% |     13.65% |   14.47% |
+| United States |    16.52% |    17.02% |     12.13% |   10.93% |
+| Germany       |     9.06% |    10.89% |     11.19% |   10.75% |
+| Japan         |     9.52% |     6.58% |      8.28% |    9.26% |
+| France        |     6.76% |     7.58% |      7.61% |   10.93% |
+| UK            |     6.78% |     6.98% |      7.76% |    6.89% |
+
+Order performance varies meaningfully by country. Australia, Canada and the US appear to be important markets, while Japan shows a relatively higher cancellation contribution and France shows a relatively higher refund contribution. The "Other" category is also large enough to warrant deeper geographic analysis. Management should investigate the reasons for cancellations and refunds by market and prioritize operational improvements where the gap between successful and unsuccessful orders is largest.
+
 # Ads Campaign & Traffic Analysis
 
 ![Ads Campaign & Traffic](https://github.com/syed-masoom/Complete-Data-Analysis-Project/blob/main/2.%20Ads%20Campaign%20&%20Traffic%20Dashboard.png?raw=true)
