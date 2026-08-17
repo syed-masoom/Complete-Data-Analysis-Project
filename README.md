@@ -237,9 +237,11 @@ The project demonstrates practical use of:
 
 - But the Company can generate more revenue and more profit but the most of revenue and profit lost due high cancelation  and refund rate almost 50% of failed order in which $1.66 Million Refunded with almost 16% of orders and $3.36 Million order value cancelled with 34% of orders
 
-- The biggest concern is in that business high failed order rate almost 50%. This is potentially the largest operational opportunity in the business.
+- The business is generating strong order value, but a significant portion isn't converting into realized revenue.
 
-- Key Takeaways :
+- The biggest concern is that in business high failed order rate almost 50%. This is potentially the largest operational opportunity in the business.
+
+- Key Takeaways : The business should investigate the main reasons behind refunds—product issues, delivery problems, customer expectations, payment issues, or product quality.
 
 
 ## order-status visualization shows approximately:
@@ -254,7 +256,7 @@ Why are so many orders failing to reach successful completion?
 
 Potential Causes to Investigate
 
-## Management should investigate:
+Management should investigate:
 Payment failures
 Customer cancellations
 Inventory availability
@@ -300,8 +302,7 @@ The leading products include:
 ## Recommendation
 
 Do not evaluate product success using sales volume alone.
-Combine:
-Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable products.
+Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable products.
 
 # Customer Analysis Dashboard
 
@@ -311,17 +312,37 @@ Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable prod
 
 | KPI                     |      Result |
 | ----------------------- | ----------: |
-| **Total Customers / Orders**                |   **927 / 2.68K**   |
-| **Net Revenue / Profit**                    | **$3.36M / $1.12M**  |
-| **Total Order Value**              |  **$10.06M**|
-| **Avg Order Value**                |  **$3.75** |
-| **Customer Repeat Rate / Customers**           |  **78.64% / 729** |
-| **New Customer Rate**              |     **21.36% / 198** |
+| **Total Customers / Orders**                |   **927 / 2.68K**     |
+| **Net Revenue / Profit**                    |   **$3.33M / $1.12M** |
+| **Total Order Value**                       |   **$10.06M**         |
+| **Avg Order Value**                         |   **$3.75**           |
+| **Customer Repeat Rate / Customers**        |   **78.64% / 729**    |
+| **New Customer Rate**                       |   **21.36% / 198**    |
 
 - 2.68K Orders placed by the 927 Customers.
+- 
 - Business recieved the orders of order value of $10.06 Million but the net revenue is only $3.36 Million and Profit is $1.12 Million because almost 33.58% orders was successfully delivered
-- We Have 78.64% Customers Repeat still we are losing the our most of the revenue and profit of almost 65%-70% in failed orders.
 
+- The business has strong customer retention 78.64% Customers Repeat rate still we are losing the our most of the revenue and profit of almost 50% in failed orders.
+
+- With almost 79% of customers being repeat customers, improving the value of existing customers and improve the shopping experience from web visiting, checkout to delivery could be more efficient than relying only on new customer acquisition.
+
+## 4. RFM analysis highlights
+
+- Some customers who have previously generated meaningful value may be becoming inactive. These at risk customers are potentially valuable win-back targets
+
+- Some customers who lost they buy from us long time ago. can be the valuable customers again by providing discount and efficient shopping experience
+
+- Try to give high value and best shopping experience and retain those for the long to champion customers, Loyal Customers, Potential Loyal Customers who is providing meaningful value is the most important customer segment 
+
+
+| Customer Segment       | Key Takeaway                                                                                                                                                 | Recommended Business Action                                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| 🏆 **Champions**       | These are the most recently active, frequent, and valuable customers. They are the strongest customer group and an important source of repeat revenue.       | Protect them with VIP rewards, early access, loyalty benefits, and referral programs.                                            |
+| 💚 **Loyal Customers** | These customers purchase regularly and show strong engagement, but may not yet have the highest monetary value.                                              | Increase their value through cross-selling, upselling, bundles, and loyalty programs.                                            |
+| 🟠 **At Risk**         | These customers have previously shown good purchase frequency or spending but have not purchased recently. They represent a potential revenue-loss risk.     | Prioritize personalized win-back campaigns, product recommendations, and targeted incentives.                                    |
+| 🟡 **Potential Loyal** | These customers have purchased recently but have relatively low or moderate purchase frequency. They have the potential to become long-term loyal customers. | Focus on encouraging the next purchase through personalized recommendations, complementary products, and second-purchase offers. |
+| 🔴 **Lost Customers**  | These customers have low recent activity and limited historical purchasing behavior, making them the least engaged segment.                                  | Use low-cost reactivation campaigns and avoid spending heavily unless they show renewed engagement.                              |
 
 
 # Ads Campaign & Traffic Analysis
