@@ -250,10 +250,7 @@ The project demonstrates practical use of:
 16.45% Refunded
 ~17% Processing
 
-This creates an important business question:
-
-Why are so many orders failing to reach successful completion?
-
+This creates an important business question: Why are so many orders failing to reach successful completion?
 Potential Causes to Investigate
 
 Management should investigate:
