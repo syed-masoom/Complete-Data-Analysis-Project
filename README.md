@@ -432,6 +432,8 @@ WhatsApp/email campaigns
 Loyalty benefits
 Limited incentives
 
+In One Line: Retain Champions and Loyal Customers, while using targeted win-back campaigns to reactivate high-value At-Risk customers and convert new customers into repeat buyers.
+
 # Ads Campaign & Traffic Analysis
 
 ![Ads Campaign & Traffic](https://github.com/syed-masoom/Complete-Data-Analysis-Project/blob/main/2.%20Ads%20Campaign%20&%20Traffic%20Dashboard.png?raw=true)
@@ -550,7 +552,9 @@ That's positive.
 
 The business isn't completely dependent on paid advertising.
 
+In One Line: Shift marketing budget toward channels and campaigns that generate the highest profitable returns, while improving website conversion and reducing bounce rate.
 
+## Final Key Takeaways
 The business has a healthy acquisition mix and strong advertising returns, with organic traffic performing slightly better than paid traffic in order generation. However, marketing spend is concentrated heavily on Instagram and promotional campaigns, so these investments should be evaluated against revenue and profitability rather than spend alone. The ~50% bounce rate also indicates room to improve the website experience and conversion journey. Overall, the strongest growth opportunity is to improve traffic quality and conversion efficiency while reallocating marketing budget toward campaigns and channels that generate the highest profitable customer value.
 
 - Overall Ads and Traffic is look perfect but Ads can be make more profitable and gigh revenue generator
