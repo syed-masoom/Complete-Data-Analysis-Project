@@ -329,6 +329,8 @@ Action
 Create a Refund Root-Cause Analysis.
 For example: Product → Refund Rate → Refund Amount → Reason → Profit Impact
 
+In One Line: Focus on reducing cancellations and refunds, improving order completion, and optimizing high-performing products to increase realized revenue and profit.
+
 Do not evaluate product success using sales volume alone.
 Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable products.
 
