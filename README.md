@@ -333,7 +333,9 @@ Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valu
 
 - Some customers who lost they buy from us long time ago. can be the valuable customers again by providing discount and efficient shopping experience
 
-- Try to give high value and best shopping experience and retain those for the long to champion customers, Loyal Customers, Potential Loyal Customers who is providing meaningful value is the most important customer segment 
+- Try to give high value and best shopping experience and retain those for the long to champion customers, Loyal Customers, Potential Loyal Customers who is providing meaningful value is the most important customer segment
+
+- The RFM analysis shows that the business should not treat every customer the same.
 
 
 | Customer Segment       | Key Takeaway                                                                                                                                                 | Recommended Business Action                                                                                                      |
