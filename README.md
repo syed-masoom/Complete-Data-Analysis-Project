@@ -464,25 +464,17 @@ In One Line: Retain Champions and Loyal Customers, while using targeted win-back
 | **Total Net Revenue**                    |  **$3.33M**          |
 | **Net Profit**                           | **$1.12M**           |
 
-- The business recieving the significant amount of traffic 5.00K almost 50% organic and 50% paid ads campaign with 53.66% of conversion rate.
+- The business recieving the significant amount of traffic 5.00K almost 50% organic and 50% paid ads campaign with 53.66% of conversion rate and almost 50% bounce rate.
 
-- The orders distribution also contributing 50% organic and 50% paid with around 1.38K orders comes organically and 1.30K orders comes fro paid ads
+- The the organic and paid channel also contributing 50% organic and 50% paid with around 1.38K orders comes organically and 1.30K orders comes from paid ads
 
-- total Ads Spent is $250.68K across all the channel Instagram, facebook, google, email marketing and refferal with 6.87x ROAS
+- total Ads Spent is $250.68K across all the channel Instagram, facebook, google, email marketing and refferal with 6.87x ROAS with $1.72 Million Net attributed Revenue generated from this Ads camapign.
 
-- We recieved around $10 million of orders from across all the channel in which $4.4 Million comes paid ads and almost $5.15 Million come from organic 
-
-- Organic Traffic is 2.54K and the orders we recieved 1.38K Organically and Paid Traffic is 2.46K and the orders we recieved 1.30K. Almost 50% Traffic comes organically and 50% from paid Ads campaign
-
-- Total $250.68K we spent on Ads campaign with 19.62x ROAS we get the overall very ROAS but this ROAS is shows overall ROAS when we look on the filter level for only the completed orders this will around 6x ROAS. Because the most of orders almost 67% of our orders was unsuccessful and only 33% of orders is successfully completed this very big concern
+- We recieved around $10 million of orders from across all the channel in which $4.4 Million comes from paid ads and almost $5.15 Million come from organic but the net revenue we generated is only $3.33 Million which is around 34% of total orders. this because of high cancellation and refund rate
 
 - $4.92 Million Revenue comes from Ads Campaign shows in the dashboard but the Net Revenue is  only $1.72 Million when we look this on the order status filter this will show complete picture of all the orders
 
-- $3.33 Million is Net Revenue this is the exact revenue we generated from the business this year
-
-- $10.06 Million is the total order value the customers ordered but with the 33% order success rate we generated only $3.33 Million Net Revenue from the this total order value
-
-- $1.12 Million is the Net profit we generated this year
+- This is clearly showing the business is performing well organically is slightly more than paid but the biggest concern is 50% bounce rate and high order failed rate if we improve our order success rate this will more valuable than only spend on Ads campaign.
 
 - Takeaway: The business shouldn't rely only on paid acquisition; organic acquisition is already contributing strongly. Organic is therefore slightly more efficient in converting traffic into orders.
 
@@ -505,15 +497,8 @@ In One Line: Retain Champions and Loyal Customers, while using targeted win-back
 - Takeaway: Instagram is the biggest paid channel, so it deserves close monitoring to make sure its high spend is also producing proportionally strong revenue and conversions.
 
 ## Ad Spent by Campaign type
-We run Ads campaign based on the multiple discount campaign type on that for that discount we launch Ads campaign for that specific discount campaign like
-- Holiday Special
-- Flash Sale
-- VIP Exclusive
-- New Year EVE
-- Black Friday
-- Back to School
-- Clearance Sale
-- Summer Sale
+
+We run Ads campaign based on the multiple discount type campaign on across different channels we launch Ads campaign for specific discount campaign like
 
 ## Traffic Vs Order Vs Bounce by Channel
 
@@ -546,9 +531,8 @@ We run Ads campaign based on the multiple discount campaign type on that for tha
 
 - Takeaway: The mobile shopping experience should be a priority because mobile is already generating strong order performance.
 
-## Conclusion
 
-🎯 Analyst Conclusion
+## 🎯 Conclusion
 
 Marketing Analysis — Healthy Acquisition Mix
 
@@ -570,7 +554,7 @@ The business isn't completely dependent on paid advertising.
 
 In One Line: Shift marketing budget toward channels and campaigns that generate the highest profitable returns, while improving website conversion and reducing bounce rate.
 
-## Final Key Takeaways
+## Recomendation
 The business has a healthy acquisition mix and strong advertising returns, with organic traffic performing slightly better than paid traffic in order generation. However, marketing spend is concentrated heavily on Instagram and promotional campaigns, so these investments should be evaluated against revenue and profitability rather than spend alone. The ~50% bounce rate also indicates room to improve the website experience and conversion journey. Overall, the strongest growth opportunity is to improve traffic quality and conversion efficiency while reallocating marketing budget toward campaigns and channels that generate the highest profitable customer value.
 
 - Overall Ads and Traffic is look perfect but Ads can be make more profitable and gigh revenue generator
