@@ -235,24 +235,31 @@ The project demonstrates practical use of:
 
 - The company generated 2.68K orders which include organically and paid wit average order value $3.75K, $3.33 Million Net Revenue and $1.12 Million in Net Profit with only 33.58% order success rate
 
-- But the Company can generate more revenue and more profit but the most of revenue and profit lost due high cancelation  and refund rate almost 50% of failed order in which $1.66 Million Refunded with almost 16% of orders and $3.36 Million order value cancelled with 34% of orders
+- But the Company can losted almost 50% of revenue and more profit due 34% of cancelation  and 15% of refund rate almost 50% of failed order in which $3.36 Million of order value cancelled and $1.66 Million Refunded
 
 - The business is generating strong order value, but a significant portion isn't converting into realized revenue.
 
-- The biggest concern is that in business high failed order rate almost 50%. This is potentially the largest operational opportunity in the business.
+- The biggest concern is that high order failed rate almost 50%. This is potentially the largest operational opportunity in the business.
 
 - Key Takeaways : The business should investigate the main reasons behind refunds—product issues, delivery problems, customer expectations, payment issues, or product quality.
 
 
 ## order-status visualization shows approximately:
-33.1% Completed
-33.41% Cancelled
-16.45% Refunded
-~17% Processing
 
-This creates an important business question: Why are so many orders failing to reach successful completion?
+|Order Status    | Order %       |
+| ------------   | ------------: |
+| **Completed**  |   **33.1%**   |
+| **Cancelled**  |   **33.41%**  |
+| **Refunded**   |   **16.45%**  |
+| **Processing** |   **17%**     |
+
+- Here we can see the order rate by order status and this is clearly showing the reason behind of 
+our revenue and profit loss from the total order value which we generated
+
+- This creates an important business question: Why are so many orders failing to reach successful completion?
 Potential Causes to Investigate
 
+- Key Takeaway:
 Management should investigate:
 Payment failures
 Customer cancellations
@@ -274,27 +281,28 @@ The dashboard identifies the strongest-selling products across the electronics c
 
 The leading products include:
 
-- Nikon Z8
-- Sony Bravia XR
-- Samsung S90C OLED
-- Apple MacBook Pro
-- Canon EOS R6
-- Razer Blade
-- Sony Alpha
-- Sony Xperia
-- Samsung Galaxy
-- LG InstaView
-- Business Questions
+| Product                            | Units Sold |
+| ---------------------------------- | ---------: |
+| Samsung S90C 77-inch OLED          |    **250** |
+| Sony Bravia XR A95L 65-inch        |    **230** |
+| Canon EOS R6 Mark II               |    **202** |
+| Samsung Galaxy Z Fold 5            |    **201** |
+| Nikon Z8                           |    **195** |
+| Sony Alpha a7 IV                   |    **192** |
+| Razer Blade 16                     |    **181** |
+| Sony Xperia 1 V                    |    **174** |
+| Apple MacBook Pro 16-inch (M3 Max) |    **160** |
+| LG InstaView Refrigerator          |    **120** |
 
-## Management should use this analysis to determine:
+- Samsung S90C 77-inch OLED leads the ranking with 250 units sold.
+- The Sony Bravia XR A95L is second with 230 units, only 20 units behind the leader.
+- Canon EOS R6 Mark II and Samsung Galaxy Z Fold 5 have very similar sales at 202 and 201 units.
+- LG InstaView Refrigerator has the lowest volume among the top 10, with 120 units.
+- The top 10 products together sold 1,905 units.
+- Sales are concentrated around premium electronics, particularly high-end TVs, cameras, smartphones, laptops, and gaming devices.
 
-1. Which products deserve higher inventory allocation?
+Key Takeaway: These products should receive close attention for inventory planning, pricing, promotions, and profitability analysis.
 
-2. Which products drive the largest share of sales?
-
-3. Are high-volume products also high-margin products?
-
-4. Are there products with strong sales but weak profitability?
 
 ## Recommendation
 
@@ -330,6 +338,7 @@ In One Line: Focus on reducing cancellations and refunds, improving order comple
 
 Do not evaluate product success using sales volume alone.
 Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valuable products.
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Customer Analysis Dashboard
 
@@ -349,12 +358,13 @@ Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valu
 | **New Customer Rate**                       |   **21.36% / 198**    |
 
 - 2.68K Orders placed by the 927 Customers.
-- 
-- Business recieved the orders of order value of $10.06 Million but the net revenue is only $3.36 Million and Profit is $1.12 Million because almost 33.58% orders was successfully delivered
+
+- Business recieved the orders of order value $10.06 Million but the net revenue is only $3.36 Million and Profit is $1.12 Million because almost 33.58% orders was successfully delivered
 
 - The business has strong customer retention 78.64% Customers Repeat rate still we are losing the our most of the revenue and profit of almost 50% in failed orders.
 
-- With almost 79% of customers being repeat customers, improving the value of existing customers and improve the shopping experience from web visiting, checkout to delivery could be more efficient than relying only on new customer acquisition.
+- With almost 79% of customers being repeat customers,
+  Key Takeaway: improving the value of existing customers and improve the shopping experience from web visiting, checkout to delivery could be more efficient than relying only on new customer acquisition. because business have already significant customer repeat rate
 
 ## 4. RFM analysis highlights
 
@@ -411,11 +421,11 @@ Action: Encourage the second/third purchase.
 
 🟠 At-Risk Customers
 Previously valuable customers who haven't purchased recently.
-Action: Win them back.
+- Action: Win them back.
 
 🔴 Lost Customers
 Low engagement and low historical value.
-Action: Low-cost reactivation or reduce marketing priority
+- Action: Low-cost reactivation or reduce marketing priority
 
 - A customer who purchased 4 times and spent $25K but hasn't purchased for 170 days is much more valuable to reactivate than a customer who purchased once for $500.
 
@@ -453,7 +463,13 @@ In One Line: Retain Champions and Loyal Customers, while using targeted win-back
 | **Total Order Value / Orders**           |  **$10.06M / 2.68K** |
 | **Net Profit**                           | **$1.12M** |
 
-- The Overall Traffic comes from Organic and paid is 5.00K But the conversion is around 53.66% with 2.68K Orders
+- The business recieving the significant amount of traffic 5.00K almost 50% organic and 50% paid ads campaign with 53.66% of conversion rate.
+
+- The orders distribution also contributing 50% organic and 50% paid with around 1.38K orders comes organically and 1.30K orders comes fro paid ads
+
+- total Ads Spent is $250.68K across all the channel Instagram, facebook, google, email marketing and refferal with 6.87x ROAS
+
+- We recieved around $10 million of orders from across all the channel in which $4.4 Million comes paid ads and almost $5.15 Million come from organic 
 
 - Organic Traffic is 2.54K and the orders we recieved 1.38K Organically and Paid Traffic is 2.46K and the orders we recieved 1.30K. Almost 50% Traffic comes organically and 50% from paid Ads campaign
 
