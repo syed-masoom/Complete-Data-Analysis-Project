@@ -213,7 +213,8 @@ The project demonstrates practical use of:
 
 # Sales Overview Dashboard
 
-![Sales Overview](https://github.com/syed-masoom/Complete-Data-Analysis-Project/blob/main/1.%20Sales%20Dashboard.png?raw=true)
+<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/80842e1f-4dd2-4336-aebf-1cab1b243116" />
+
 
 # Business Report
 
