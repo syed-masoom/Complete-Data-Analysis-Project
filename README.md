@@ -343,7 +343,8 @@ Combine: Revenue + Quantity + Profit Margin + Return Rate to identify truly valu
 
 # Customer Analysis Dashboard
 
-![Customer Analysis](https://github.com/syed-masoom/Complete-Data-Analysis-Project/blob/main/2.%20Customer%20Analysis%20Dashboard.png?raw=true)
+<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/eecd9642-9d85-44d1-9d38-7e07bfe2f3d8" />
+
 
 # Business Report
 
