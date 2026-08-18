@@ -447,7 +447,7 @@ In One Line: Retain Champions and Loyal Customers, while using targeted win-back
 
 # Ads Campaign & Traffic Analysis
 
-![Ads Campaign & Traffic](https://github.com/syed-masoom/Complete-Data-Analysis-Project/blob/main/3.%20Ads%20Campaign%20&%20Traffic%20Dashboard.png?raw=true)
+<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/5a9cd5fc-0fac-4f15-b577-e3914b85d653" />
 
 # Business Report
 ## Overall Ads Camapign and Traffic KPIs
