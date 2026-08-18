@@ -442,6 +442,7 @@ Loyalty benefits
 Limited incentives
 
 In One Line: Retain Champions and Loyal Customers, while using targeted win-back campaigns to reactivate high-value At-Risk customers and convert new customers into repeat buyers.
+-- ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Ads Campaign & Traffic Analysis
 
@@ -459,9 +460,9 @@ In One Line: Retain Champions and Loyal Customers, while using targeted win-back
 | **Bounce Rate / Bounce**                 |  **48.78% / 2.49K** |
 | **Ad Spend / ROAS**                      |  **$250.68K / 19.62x** |
 | **Revenue from Ads / Net Revenue**       | **$4.92M / $1.72M** |
-| **Total Net Revenue**                    |  **$3.33M** |
-| **Total Order Value / Orders**           |  **$10.06M / 2.68K** |
-| **Net Profit**                           | **$1.12M** |
+| **Organic Revenue / Net Revenue**        |  **$5.15M / $1.61M** |
+| **Total Net Revenue**                    |  **$3.33M**          |
+| **Net Profit**                           | **$1.12M**           |
 
 - The business recieving the significant amount of traffic 5.00K almost 50% organic and 50% paid ads campaign with 53.66% of conversion rate.
 
