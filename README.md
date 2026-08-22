@@ -587,4 +587,8 @@ Therefore, the priority should be:
 6. Scale high-margin products and customer segments
 Executive Conclusion
 
+- Allocate the marketing budgets to retain the lost and at risk customers based on RFM segmentation instead of just blindly spend on discounting ads campaigns.
+
+
+- Summary
 The D2C electronics business has a solid foundation for growth, with $10.06M in order value, $1.12M in net profit, a 78.64% repeat purchase rate, and a balanced paid-organic acquisition mix. However, the analysis reveals substantial revenue leakage through cancellations and refunds, making order completion the most immediate growth opportunity. The business should prioritize fixing operational and customer-experience issues, while using RFM segmentation to protect high-value customers and targeted marketing to reactivate at-risk customers. At the same time, marketing budgets should be allocated based on profitable customer acquisition rather than spend or revenue alone.
